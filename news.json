@@ -1,38 +1,164 @@
 [
   {
-    "cat":"agents",
-    "tag":"وكلاء AI",
-    "title":"Meta تختبر مساعداً بشرياً خلف الكواليس مع وكيلها Muse",
-    "text":"Meta تختبر ميزة يتدخل فيها متعاقدون بشريون في بعض المكالمات التي يجريها مساعد Muse، ما يسلط الضوء على تحديات الخصوصية والثقة في الوكلاء المستقلين.",
-    "date":"22 سبتمبر 2026",
-    "source":"Reuters",
-    "url":"https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/"
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "text": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "date": "2026-09-27 19:57 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
   },
   {
-    "cat":"business",
-    "tag":"أعمال AI",
-    "title":"Amazon وShopify تتخذان مسارين مختلفين في التسوق بالوكلاء الذكيين",
-    "text":"يتجه سوق التجارة الإلكترونية نحو وكلاء قادرين على البحث والمقارنة والشراء، بينما تختار المنصات بين فتح أنظمتها لهذه الوكلاء أو تقييدها.",
-    "date":"21 سبتمبر 2026",
-    "source":"MarketWatch",
-    "url":"https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b"
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "text": "\"AI is the devil and I its maker.\"",
+    "date": "2026-09-27 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
   },
   {
-    "cat":"tools",
-    "tag":"AGI",
-    "title":"Google DeepMind تطلق معهداً لتوسيع النقاش حول AGI",
-    "text":"أطلقت Google وDeepMind معهداً يهدف إلى توسيع النقاش حول الذكاء الاصطناعي العام، مع أبحاث حول السلامة والتقييم والسياسات الاقتصادية.",
-    "date":"17 سبتمبر 2026",
-    "source":"TechCrunch",
-    "url":"https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "text": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "date": "2026-09-27 01:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
   },
   {
-    "cat":"business",
-    "tag":"بنية تحتية AI",
-    "title":"Crusoe تجمع 3.9 مليار دولار لبناء مراكز بيانات ومصانع AI صغيرة",
-    "text":"جمعت Crusoe تمويلاً ضخماً لتوسيع البنية التحتية للذكاء الاصطناعي، بما في ذلك مراكز بيانات معيارية يمكن نشرها بسرعة.",
-    "date":"17 سبتمبر 2026",
-    "source":"TechCrunch",
-    "url":"https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "text": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "date": "2026-09-26 21:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "text": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "date": "2026-09-26 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "text": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "date": "2026-09-26 01:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "text": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+    "date": "2026-09-25 23:11 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "text": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "date": "2026-09-25 22:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Meta opens early access program for new Muse features",
+    "text": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "date": "2026-09-25 20:34 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "text": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anth",
+    "date": "2026-09-25 19:13 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "text": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "date": "2026-09-25 19:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/proaction"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "text": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "date": "2026-09-25 18:48 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "text": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "date": "2026-09-25 18:33 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "text": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by",
+    "date": "2026-09-25 18:22 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "text": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+    "date": "2026-09-25 17:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "text": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+    "date": "2026-09-25 17:24 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "text": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+    "date": "2026-09-25 16:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "text": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by",
+    "date": "2026-09-25 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
   }
 ]
