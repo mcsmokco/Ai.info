@@ -1,0 +1,102 @@
+name: Update AI News
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS feeds and update news.json
+        shell: python
+        run: |
+          import json, re, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+
+          feeds = [
+              ('TechCrunch', 'https://techcrunch.com/category/artificial-intelligence/feed/'),
+              ('OpenAI', 'https://openai.com/news/rss.xml'),
+              ('Google AI', 'https://blog.google/technology/ai/rss/'),
+              ('Google DeepMind', 'https://deepmind.google/blog/rss.xml'),
+          ]
+
+          def clean(text):
+              text = re.sub(r'<[^>]+>', ' ', text or '')
+              return re.sub(r'\s+', ' ', text).strip()
+
+          def parse_date(value):
+              if not value:
+                  return ''
+              try:
+                  return parsedate_to_datetime(value).astimezone(timezone.utc).isoformat()
+              except Exception:
+                  return value
+
+          items = []
+          for source, url in feeds:
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'AIProfitNewsBot/1.0'})
+                  data = urllib.request.urlopen(req, timeout=20).read()
+                  root = ET.fromstring(data)
+                  for item in root.iter():
+                      if item.tag.lower().endswith('item'):
+                          fields = {re.sub(r'\{.*\}', '', c.tag).lower(): (c.text or '').strip() for c in item}
+                          title = clean(fields.get('title', ''))
+                          link = fields.get('link', '').strip()
+                          desc = clean(fields.get('description', '') or fields.get('summary', ''))
+                          pub = fields.get('pubdate', '') or fields.get('published', '') or fields.get('updated', '')
+                          if title and link:
+                              items.append({'title': title, 'url': link, 'text': desc[:260], 'source': source, 'published': parse_date(pub)})
+              except Exception as e:
+                  print(f'Feed failed: {source}: {e}')
+
+          unique = {}
+          for item in items:
+              unique[item['url']] = item
+          items = sorted(unique.values(), key=lambda x: x.get('published', ''), reverse=True)[:18]
+
+          def category(item):
+              text = (item['title'] + ' ' + item['text']).lower()
+              if any(k in text for k in ['agent', 'agents', 'agentic', 'autonomous']):
+                  return 'agents', 'وكلاء AI'
+              if any(k in text for k in ['tool', 'app', 'model', 'chatgpt', 'gemini', 'claude', 'openai']):
+                  return 'tools', 'أدوات AI'
+              return 'business', 'أعمال AI'
+
+          out = []
+          for item in items:
+              cat, tag = category(item)
+              dt = item.get('published', '')
+              try:
+                  pretty = datetime.fromisoformat(dt.replace('Z', '+00:00')).strftime('%Y-%m-%d %H:%M UTC')
+              except Exception:
+                  pretty = 'تحديث حديث'
+              out.append({'cat': cat, 'tag': tag, 'title': item['title'], 'text': item['text'] or 'خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.', 'date': pretty, 'source': item['source'], 'url': item['url']})
+
+          if out:
+              with open('news.json', 'w', encoding='utf-8') as f:
+                  json.dump(out, f, ensure_ascii=False, indent=2)
+              print(f'Updated {len(out)} articles')
+          else:
+              print('No feed items received; keeping existing news.json')
+
+      - name: Commit updated news
+        run: |
+          git config user.name 'AIProfit News Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json
+          if git diff --cached --quiet; then
+            echo 'No news changes.'
+          else
+            git commit -m 'Auto-update AI news feed'
+            git push
+          fi
