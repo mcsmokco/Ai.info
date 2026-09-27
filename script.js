@@ -4,13 +4,11 @@ const grid=document.querySelector('#news-grid');
 function escapeHtml(v){return String(v).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
 function escapeAttr(v){return String(v).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 function render(filter='all'){if(!grid)return;grid.innerHTML='';const list=news.filter(n=>filter==='all'||n.cat===filter);if(!list.length){grid.innerHTML='<p class="no-news">لا توجد أخبار في هذا التصنيف حالياً.</p>';return}list.forEach((n,i)=>{const a=document.createElement('article');a.className='news-card';a.innerHTML='<div class="tag">'+escapeHtml(n.tag||'أخبار AI')+'</div><h3>'+escapeHtml(n.title)+'</h3><p>'+escapeHtml(n.text)+'</p><div class="meta">'+escapeHtml(n.date||'')+' · '+escapeHtml(n.source||'AIProfit')+'</div><div class="news-action">'+(n.url?'<a class="read-more" href="'+escapeAttr(n.url)+'" target="_blank" rel="noopener noreferrer">اقرأ الخبر الأصلي ←</a>':'<button class="read-more" type="button" data-news-index="'+i+'">اقرأ التحليل ←</button>')+'</div>';grid.appendChild(a)})}
+function loadNews(){return fetch('news.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('feed');return r.json()}).then(data=>{if(Array.isArray(data)&&data.length){news=data;render(document.querySelector('.filter.active')?.dataset.filter||'all')}}).catch(()=>{})}
 render();
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(b.dataset.filter)}));
-
 document.addEventListener('click',e=>{const read=e.target.closest('[data-news-index]');if(read){const currentFilter=document.querySelector('.filter.active')?.dataset.filter||'all';const list=news.filter(n=>currentFilter==='all'||n.cat===currentFilter);const n=list[Number(read.dataset.newsIndex)];if(n)window.alert('تحليل AIProfit\n\n'+n.title+'\n\n'+n.text+'\n\nفرصة الربح: ابحث عن مشكلة حقيقية يمكن حلها بهذه التقنية، اختبر عرضاً صغيراً، ثم طوّره بناءً على طلب السوق.')}});
-
 const menu=document.querySelector('.menu');const nav=document.querySelector('nav');if(menu&&nav){menu.addEventListener('click',()=>{nav.classList.toggle('open')});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')))}
-
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{const target=document.querySelector(a.getAttribute('href'));if(target){e.preventDefault();target.scrollIntoView({behavior:'smooth',block:'start'})}}));
-
-fetch('news.json?ts='+Date.now()).then(r=>{if(!r.ok)throw new Error('feed');return r.json()}).then(data=>{if(Array.isArray(data)&&data.length){news=data;render(document.querySelector('.filter.active')?.dataset.filter||'all')}}).catch(()=>{});
+loadNews();
+setInterval(loadNews,30*60*1000);
