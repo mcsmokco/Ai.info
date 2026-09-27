@@ -1,0 +1,38 @@
+[
+  {
+    "cat":"agents",
+    "tag":"وكلاء AI",
+    "title":"Meta تختبر مساعداً بشرياً خلف الكواليس مع وكيلها Muse",
+    "text":"Meta تختبر ميزة يتدخل فيها متعاقدون بشريون في بعض المكالمات التي يجريها مساعد Muse، ما يسلط الضوء على تحديات الخصوصية والثقة في الوكلاء المستقلين.",
+    "date":"22 سبتمبر 2026",
+    "source":"Reuters",
+    "url":"https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/"
+  },
+  {
+    "cat":"business",
+    "tag":"أعمال AI",
+    "title":"Amazon وShopify تتخذان مسارين مختلفين في التسوق بالوكلاء الذكيين",
+    "text":"يتجه سوق التجارة الإلكترونية نحو وكلاء قادرين على البحث والمقارنة والشراء، بينما تختار المنصات بين فتح أنظمتها لهذه الوكلاء أو تقييدها.",
+    "date":"21 سبتمبر 2026",
+    "source":"MarketWatch",
+    "url":"https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b"
+  },
+  {
+    "cat":"tools",
+    "tag":"AGI",
+    "title":"Google DeepMind تطلق معهداً لتوسيع النقاش حول AGI",
+    "text":"أطلقت Google وDeepMind معهداً يهدف إلى توسيع النقاش حول الذكاء الاصطناعي العام، مع أبحاث حول السلامة والتقييم والسياسات الاقتصادية.",
+    "date":"17 سبتمبر 2026",
+    "source":"TechCrunch",
+    "url":"https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+  },
+  {
+    "cat":"business",
+    "tag":"بنية تحتية AI",
+    "title":"Crusoe تجمع 3.9 مليار دولار لبناء مراكز بيانات ومصانع AI صغيرة",
+    "text":"جمعت Crusoe تمويلاً ضخماً لتوسيع البنية التحتية للذكاء الاصطناعي، بما في ذلك مراكز بيانات معيارية يمكن نشرها بسرعة.",
+    "date":"17 سبتمبر 2026",
+    "source":"TechCrunch",
+    "url":"https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+  }
+]
