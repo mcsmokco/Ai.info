@@ -2,6 +2,24 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "text": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "date": "2026-09-28 19:33 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "date": "2026-09-28 19:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "text": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware ",
     "date": "2026-09-28 18:31 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-09-27 16:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "text": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "date": "2026-09-27 01:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "text": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "date": "2026-09-26 21:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
   }
 ]
