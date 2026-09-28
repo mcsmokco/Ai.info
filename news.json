@@ -2,6 +2,24 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "text": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware ",
+    "date": "2026-09-28 18:31 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "text": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "date": "2026-09-28 18:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
     "text": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
     "date": "2026-09-28 17:29 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-09-26 21:02 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "text": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "date": "2026-09-26 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "text": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-    "date": "2026-09-26 01:08 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
   }
 ]
