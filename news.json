@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "text": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup Battlefield 200 is almost here, and with today&#8217;s announcement, the judging ",
+    "date": "2026-09-28 14:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Modulate raises $25M for its voice models and analysis suite",
     "text": "Modulate deploys its models to detect deepfake, fraud and scam",
     "date": "2026-09-28 14:05 UTC",
@@ -11,20 +20,20 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-    "text": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
-    "date": "2026-09-28 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
     "title": "Insuretech Outmarket raises $34.5M just months after prior round",
     "text": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
     "date": "2026-09-28 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "text": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
+    "date": "2026-09-28 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
   },
   {
     "cat": "agents",
@@ -151,14 +160,5 @@
     "date": "2026-09-25 18:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "text": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-    "date": "2026-09-25 18:33 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
   }
 ]
