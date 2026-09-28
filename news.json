@@ -2,6 +2,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "text": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "date": "2026-09-28 15:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "text": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the co",
+    "date": "2026-09-28 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
     "text": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup Battlefield 200 is almost here, and with today&#8217;s announcement, the judging ",
     "date": "2026-09-28 14:30 UTC",
@@ -20,20 +38,20 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-    "text": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "date": "2026-09-28 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
     "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
     "text": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
     "date": "2026-09-28 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "text": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "date": "2026-09-28 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
   },
   {
     "cat": "agents",
@@ -142,23 +160,5 @@
     "date": "2026-09-25 19:13 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "text": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "date": "2026-09-25 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/proaction"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "text": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "date": "2026-09-25 18:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
   }
 ]
