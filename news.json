@@ -2,6 +2,24 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "text": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "date": "2026-09-28 17:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "text": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breath of the incidents s alarming.",
+    "date": "2026-09-28 17:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
     "text": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
     "date": "2026-09-28 16:52 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-09-25 23:11 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "text": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "date": "2026-09-25 22:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta opens early access program for new Muse features",
-    "text": "Anyone interested in joining has to ask Muse to put them on the list.",
-    "date": "2026-09-25 20:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
   }
 ]
