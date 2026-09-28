@@ -1,12 +1,12 @@
 [
   {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-    "text": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "date": "2026-09-28 14:00 UTC",
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "text": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "date": "2026-09-28 14:05 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
   },
   {
     "cat": "business",
@@ -16,6 +16,15 @@
     "date": "2026-09-28 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "text": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "date": "2026-09-28 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
   },
   {
     "cat": "agents",
@@ -151,14 +160,5 @@
     "date": "2026-09-25 18:33 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "text": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by",
-    "date": "2026-09-25 18:22 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
   }
 ]
