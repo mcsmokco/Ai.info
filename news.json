@@ -12,7 +12,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "text": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breath of the incidents s alarming.",
+    "text": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
     "date": "2026-09-28 17:09 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
@@ -90,6 +90,15 @@
     "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "text": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "date": "2026-09-28 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -151,14 +160,5 @@
     "date": "2026-09-26 01:08 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "text": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "date": "2026-09-25 23:11 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
   }
 ]
