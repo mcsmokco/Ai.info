@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "text": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "date": "2026-09-28 21:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
     "text": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
     "date": "2026-09-28 20:39 UTC",
@@ -146,19 +155,10 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "text": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "date": "2026-09-27 20:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "text": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "date": "2026-09-27 19:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    "title": "Are you a Codex Original?",
+    "text": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "date": "2026-09-28 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/form/codex-originals"
   }
 ]
