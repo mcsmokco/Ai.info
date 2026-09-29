@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "text": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "date": "2026-09-29 22:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "OpenAI’s latest features take direct aim at the app store model",
     "text": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
     "date": "2026-09-29 20:15 UTC",
@@ -56,15 +65,6 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-    "date": "2026-09-29 17:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
     "text": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
     "date": "2026-09-29 17:15 UTC",
@@ -75,7 +75,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "text": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "text": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
     "date": "2026-09-29 17:15 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
@@ -83,8 +83,17 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+    "date": "2026-09-29 17:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "text": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "text": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
     "date": "2026-09-29 16:55 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
@@ -151,14 +160,5 @@
     "date": "2026-09-29 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/devday-2026-recap"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "text": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-    "date": "2026-09-29 05:13 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
   }
 ]
