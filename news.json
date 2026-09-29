@@ -1,5 +1,50 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "text": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "date": "2026-09-29 17:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "text": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "date": "2026-09-29 17:17 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "date": "2026-09-29 17:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "text": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "date": "2026-09-29 17:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "text": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "date": "2026-09-29 17:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Can a chatbot fix the government maze? The White House is about to find out",
@@ -115,50 +160,5 @@
     "date": "2026-09-28 19:21 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How we will do better for Australia",
-    "text": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "date": "2026-09-28 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Towards safety cases for frontier AI training",
-    "text": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "date": "2026-09-28 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-28 19:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "text": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-    "date": "2026-09-28 18:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "text": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "date": "2026-09-28 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
   }
 ]
