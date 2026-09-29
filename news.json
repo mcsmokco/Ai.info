@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "text": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+    "date": "2026-09-29 13:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "text": "The tech giant says the agent can help owners run their business and find new customers.",
+    "date": "2026-09-29 13:47 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
@@ -142,23 +160,5 @@
     "date": "2026-09-28 17:09 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "text": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "date": "2026-09-28 16:52 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "text": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "date": "2026-09-28 15:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
   }
 ]
