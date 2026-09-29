@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "text": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "date": "2026-09-29 12:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "text": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "date": "2026-09-29 12:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -142,23 +160,5 @@
     "date": "2026-09-28 15:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "text": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the co",
-    "date": "2026-09-28 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "text": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-    "date": "2026-09-28 14:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
   }
 ]
