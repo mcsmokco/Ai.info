@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "text": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "date": "2026-09-28 23:39 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -57,7 +66,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "text": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "text": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
     "date": "2026-09-28 17:29 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
@@ -151,14 +160,5 @@
     "date": "2026-09-28 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Are you a Codex Original?",
-    "text": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-    "date": "2026-09-28 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/form/codex-originals"
   }
 ]
