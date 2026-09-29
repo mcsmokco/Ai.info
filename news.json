@@ -1,14 +1,5 @@
 [
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How we will do better for Australia",
-    "text": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "date": "2026-09-29 01:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -61,6 +52,15 @@
     "date": "2026-09-28 19:21 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How we will do better for Australia",
+    "text": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "date": "2026-09-28 19:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia"
   },
   {
     "cat": "business",
