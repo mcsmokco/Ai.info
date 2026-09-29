@@ -74,6 +74,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Towards safety cases for frontier AI training",
+    "text": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "date": "2026-09-28 19:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "date": "2026-09-28 19:00 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-09-28 14:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "text": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "date": "2026-09-28 14:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
   }
 ]
