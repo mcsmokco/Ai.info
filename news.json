@@ -56,20 +56,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-    "date": "2026-09-29 17:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
     "text": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
     "date": "2026-09-29 17:15 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "date": "2026-09-29 17:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
   },
   {
     "cat": "tools",
@@ -135,15 +135,6 @@
     "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "DevDay 2026 Recap",
-    "text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "date": "2026-09-29 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/devday-2026-recap"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Introducing GPT-6.1 Sol",
@@ -151,6 +142,15 @@
     "date": "2026-09-29 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "DevDay 2026 Recap",
+    "text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "date": "2026-09-29 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/devday-2026-recap"
   },
   {
     "cat": "business",
