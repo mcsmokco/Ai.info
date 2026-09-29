@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "text": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "date": "2026-09-29 00:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI reportedly ditches model over safety concerns",
@@ -36,6 +45,15 @@
     "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "text": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+    "date": "2026-09-28 19:21 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -48,7 +66,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "text": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware ",
+    "text": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
     "date": "2026-09-28 18:31 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
@@ -142,23 +160,5 @@
     "date": "2026-09-28 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "text": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "date": "2026-09-28 13:38 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "text": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "date": "2026-09-28 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
   }
 ]
