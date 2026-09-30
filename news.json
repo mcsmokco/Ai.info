@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Airbnb adds AI search, more social features",
+    "text": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "date": "2026-09-30 12:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
     "text": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
     "date": "2026-09-29 23:30 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-09-29 12:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Introducing GPT-6.1 Sol",
-    "text": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "date": "2026-09-29 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol"
   }
 ]
