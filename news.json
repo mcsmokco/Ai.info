@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The ugly economics of consumer AI",
+    "text": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "date": "2026-09-30 17:24 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -83,6 +92,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "text": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "date": "2026-09-30 10:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Helping small businesses put AI to work",
     "text": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
     "date": "2026-09-30 10:00 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-09-29 17:45 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "text": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "date": "2026-09-29 17:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "text": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "date": "2026-09-29 17:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
   }
 ]
