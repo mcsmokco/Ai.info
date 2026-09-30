@@ -45,6 +45,15 @@
     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Helping small businesses put AI to work",
+    "text": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "date": "2026-09-30 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -151,14 +160,5 @@
     "date": "2026-09-29 16:55 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-    "text": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-    "date": "2026-09-29 15:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
   }
 ]
