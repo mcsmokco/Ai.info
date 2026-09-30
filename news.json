@@ -1,5 +1,32 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "text": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reache",
+    "date": "2026-09-30 14:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "text": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "date": "2026-09-30 14:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+    "text": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+    "date": "2026-09-30 14:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Airbnb adds AI search, more social features",
@@ -133,32 +160,5 @@
     "date": "2026-09-29 13:53 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "text": "The tech giant says the agent can help owners run their business and find new customers.",
-    "date": "2026-09-29 13:47 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "text": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-    "date": "2026-09-29 12:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "text": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-    "date": "2026-09-29 12:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
   }
 ]
