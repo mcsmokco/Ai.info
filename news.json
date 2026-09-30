@@ -2,8 +2,26 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "text": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "date": "2026-09-30 18:23 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "text": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "date": "2026-09-30 17:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "The ugly economics of consumer AI",
-    "text": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "text": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "date": "2026-09-30 17:24 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
@@ -142,23 +160,5 @@
     "date": "2026-09-29 19:52 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "text": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "date": "2026-09-29 18:35 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "text": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "date": "2026-09-29 17:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
   }
 ]
