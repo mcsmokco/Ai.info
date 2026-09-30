@@ -2,11 +2,29 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "text": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "date": "2026-09-30 16:24 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "DoorDash launches an AI agent you can text to order food",
     "text": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
     "date": "2026-09-30 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "text": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "date": "2026-09-30 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
   },
   {
     "cat": "tools",
@@ -39,7 +57,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "text": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "text": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
     "date": "2026-09-30 14:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
@@ -142,23 +160,5 @@
     "date": "2026-09-29 17:17 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "text": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "date": "2026-09-29 17:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "text": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "date": "2026-09-29 17:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
   }
 ]
