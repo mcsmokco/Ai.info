@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "text": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "date": "2026-09-29 23:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
@@ -48,7 +57,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "text": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "text": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
     "date": "2026-09-29 17:20 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
@@ -151,14 +160,5 @@
     "date": "2026-09-29 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "DevDay 2026 Recap",
-    "text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "date": "2026-09-29 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/devday-2026-recap"
   }
 ]
