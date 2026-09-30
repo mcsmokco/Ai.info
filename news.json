@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "text": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "date": "2026-09-30 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "text": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "date": "2026-09-30 15:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Introducing SynthID Bio",
@@ -142,23 +160,5 @@
     "date": "2026-09-29 17:15 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "date": "2026-09-29 17:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "text": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-    "date": "2026-09-29 16:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
   }
 ]
