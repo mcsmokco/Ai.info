@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "text": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "date": "2026-10-01 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 12:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "text": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "date": "2026-09-30 10:30 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
   }
 ]
