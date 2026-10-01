@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "text": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "date": "2026-10-01 18:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 16:24 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "text": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "date": "2026-09-30 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
   }
 ]
