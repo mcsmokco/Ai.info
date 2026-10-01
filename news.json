@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "text": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "date": "2026-10-01 17:50 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "The eternal complement",
     "text": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
     "date": "2026-10-01 17:00 UTC",
@@ -90,6 +99,15 @@
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-09-30 20:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -142,23 +160,5 @@
     "date": "2026-09-30 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "text": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-    "date": "2026-09-30 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Instinct’s new product recommendations are giving some users the ick",
-    "text": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-    "date": "2026-09-30 15:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
   }
 ]
