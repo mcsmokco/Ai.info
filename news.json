@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "text": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "date": "2026-10-01 21:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "ChatGPT can now virtually try on clothes for you",
@@ -110,6 +119,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "text": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "date": "2026-10-01 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-den-family-social"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "text": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
     "date": "2026-09-30 23:43 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-09-30 18:23 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "text": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-    "date": "2026-09-30 17:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The ugly economics of consumer AI",
-    "text": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-    "date": "2026-09-30 17:24 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
   }
 ]
