@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "date": "2026-10-01 12:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "text": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
     "date": "2026-09-30 23:43 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 10:30 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Helping small businesses put AI to work",
-    "text": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "date": "2026-09-30 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
   }
 ]
