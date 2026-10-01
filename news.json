@@ -18,6 +18,15 @@
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-09-30 20:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -90,6 +99,15 @@
     "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
   },
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Introducing SynthID Bio",
+    "text": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "date": "2026-09-30 15:03 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
@@ -142,23 +160,5 @@
     "date": "2026-09-30 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "text": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "date": "2026-09-29 23:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "text": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "date": "2026-09-29 22:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
   }
 ]
