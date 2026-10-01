@@ -2,6 +2,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "text": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "date": "2026-10-01 19:21 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+    "text": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "date": "2026-10-01 19:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
     "text": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
     "date": "2026-10-01 18:14 UTC",
@@ -108,15 +126,6 @@
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-09-30 20:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 17:24 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "text": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-    "date": "2026-09-30 16:24 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
   }
 ]
