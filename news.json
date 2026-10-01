@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "text": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "date": "2026-09-30 23:43 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "text": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "date": "2026-09-29 23:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
   }
 ]
