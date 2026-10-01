@@ -126,15 +126,6 @@
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-09-30 20:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -160,5 +151,14 @@
     "date": "2026-09-30 17:45 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The ugly economics of consumer AI",
+    "text": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "date": "2026-09-30 17:24 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
   }
 ]
