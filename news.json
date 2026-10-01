@@ -2,7 +2,7 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
     "text": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
     "date": "2026-10-01 14:00 UTC",
     "source": "TechCrunch",
@@ -43,6 +43,15 @@
     "date": "2026-09-30 21:07 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-09-30 20:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
   },
   {
     "cat": "agents",
@@ -117,6 +126,15 @@
     "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
   },
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Introducing SynthID Bio",
+    "text": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "date": "2026-09-30 15:03 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
@@ -142,23 +160,5 @@
     "date": "2026-09-30 14:15 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Airbnb adds AI search, more social features",
-    "text": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "date": "2026-09-30 12:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "text": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "date": "2026-09-30 10:30 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
   }
 ]
