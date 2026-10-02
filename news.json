@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "text": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "date": "2026-10-02 21:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
     "text": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
     "date": "2026-10-02 19:15 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-01 17:50 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The eternal complement",
-    "text": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "date": "2026-10-01 17:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/the-eternal-complement"
   }
 ]
