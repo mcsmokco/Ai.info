@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "A model guide for the GPT-6 family",
+    "text": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "date": "2026-10-02 16:15 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Pope Leo XIV is not a fan of AI-generated art",
@@ -39,7 +48,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-    "text": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth kn",
+    "text": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowi",
     "date": "2026-10-02 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
@@ -151,14 +160,5 @@
     "date": "2026-10-01 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "date": "2026-10-01 12:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
   }
 ]
