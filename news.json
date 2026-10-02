@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "text": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Tru",
+    "date": "2026-10-02 17:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "text": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Tru",
+    "date": "2026-10-02 17:48 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "text": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
     "date": "2026-10-02 17:32 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-01 16:44 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "text": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "date": "2026-10-01 16:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/albertsons-reimagining-retail"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "text": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "date": "2026-10-01 15:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
   }
 ]
