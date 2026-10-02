@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "text": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "date": "2026-10-02 17:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "text": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+    "date": "2026-10-02 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "A model guide for the GPT-6 family",
@@ -16,15 +34,6 @@
     "date": "2026-10-02 15:39 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-    "text": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-    "date": "2026-10-02 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
   },
   {
     "cat": "business",
@@ -52,6 +61,15 @@
     "date": "2026-10-02 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "text": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "date": "2026-10-02 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatham-financial"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-01 15:12 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "text": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "date": "2026-10-01 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "text": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "date": "2026-10-01 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
   }
 ]
