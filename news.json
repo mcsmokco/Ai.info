@@ -11,6 +11,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "The latest AI news we announced in September 2026",
+    "text": "Here are Google’s latest AI updates from September 2026",
+    "date": "2026-10-02 15:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
     "text": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
     "date": "2026-10-02 14:30 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-01 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/the-den-family-social"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "text": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "date": "2026-09-30 23:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
   }
 ]
