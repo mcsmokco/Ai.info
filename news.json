@@ -144,6 +144,15 @@
     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-09-30 20:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -151,14 +160,5 @@
     "date": "2026-09-30 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "text": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "date": "2026-09-30 18:23 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
   }
 ]
