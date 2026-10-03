@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "text": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "date": "2026-10-03 00:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Sean Parker is rebuilding Stability AI around music",
     "text": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "date": "2026-10-02 21:09 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-01 18:14 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-    "text": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-    "date": "2026-10-01 17:50 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
   }
 ]
