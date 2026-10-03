@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "All the AI agents that can live in your text messages",
+    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "date": "2026-10-03 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Meta wants your next gadget to be Muse-infused",
@@ -151,14 +160,5 @@
     "date": "2026-10-01 19:18 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "text": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "date": "2026-10-01 18:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
   }
 ]
