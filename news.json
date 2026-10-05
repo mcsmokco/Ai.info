@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "text": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "date": "2026-10-05 18:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -151,14 +160,5 @@
     "date": "2026-10-03 00:45 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "text": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "date": "2026-10-02 21:09 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
   }
 ]
