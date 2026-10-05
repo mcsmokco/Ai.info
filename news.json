@@ -1,5 +1,32 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "text": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "date": "2026-10-05 15:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "text": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "date": "2026-10-05 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Our approach to EU text provenance rules",
+    "text": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "date": "2026-10-05 15:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/eu-text-provenance"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
@@ -133,32 +160,5 @@
     "date": "2026-10-02 18:11 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "text": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Tru",
-    "date": "2026-10-02 17:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "text": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Tru",
-    "date": "2026-10-02 17:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-    "text": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-    "date": "2026-10-02 17:32 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
   }
 ]
