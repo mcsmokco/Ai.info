@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "text": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "date": "2026-10-05 14:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "text": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "date": "2026-10-05 14:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
@@ -142,23 +160,5 @@
     "date": "2026-10-02 17:32 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-    "text": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-    "date": "2026-10-02 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "A model guide for the GPT-6 family",
-    "text": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "date": "2026-10-02 16:15 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6"
   }
 ]
