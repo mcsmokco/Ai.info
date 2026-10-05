@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "text": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "date": "2026-10-05 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
     "text": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
     "date": "2026-10-05 12:00 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-02 16:15 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/practical-guide-building-gpt-6"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "text": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-    "date": "2026-10-02 15:39 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
   }
 ]
