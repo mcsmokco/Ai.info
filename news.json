@@ -27,15 +27,6 @@
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-06 19:57 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -115,6 +106,15 @@
     "date": "2026-10-06 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Sharing AI progress in mathematics",
+    "text": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "date": "2026-10-06 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
   },
   {
     "cat": "agents",
