@@ -3,7 +3,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Mirror Particle is building a ‘world model’ of human behavior",
-    "text": "Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, arguing LLM roleplay falls short for market research and brand strategy.",
+    "text": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
     "date": "2026-10-06 16:35 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
@@ -16,6 +16,15 @@
     "date": "2026-10-06 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "text": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "date": "2026-10-06 16:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/atlassian-partnership"
   },
   {
     "cat": "business",
@@ -151,14 +160,5 @@
     "date": "2026-10-05 14:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "text": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "date": "2026-10-05 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
   }
 ]
