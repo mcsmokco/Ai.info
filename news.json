@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "text": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "date": "2026-10-06 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "LibreOffice says ‘no AI’ is now a software feature",
@@ -151,14 +160,5 @@
     "date": "2026-10-05 12:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Building advertising for the way people use AI",
-    "text": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "date": "2026-10-05 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
   }
 ]
