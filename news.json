@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "text": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "date": "2026-10-06 22:34 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "How AI decision models could change content moderation",
     "text": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
     "date": "2026-10-06 20:35 UTC",
@@ -16,6 +25,15 @@
     "date": "2026-10-06 20:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-06 19:57 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
   },
   {
     "cat": "agents",
@@ -142,23 +160,5 @@
     "date": "2026-10-05 18:29 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "text": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "date": "2026-10-05 17:29 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "text": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "date": "2026-10-05 16:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
   }
 ]
