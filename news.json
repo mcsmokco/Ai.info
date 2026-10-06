@@ -2,6 +2,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "text": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs.",
+    "date": "2026-10-06 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "text": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+    "date": "2026-10-06 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "text": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
     "date": "2026-10-05 20:36 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-04 20:08 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Trump unveils his new Super Intelligence Force",
-    "text": "This new task force is Trump's latest response to the debate over AI safety.",
-    "date": "2026-10-04 15:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "text": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "date": "2026-10-03 18:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
   }
 ]
