@@ -27,6 +27,15 @@
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-06 19:57 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -110,6 +119,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "text": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "date": "2026-10-06 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/jump-trading"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Sharing AI progress in mathematics",
     "text": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
     "date": "2026-10-06 12:00 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-05 19:33 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "text": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share ",
-    "date": "2026-10-05 18:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "text": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "date": "2026-10-05 18:29 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
   }
 ]
