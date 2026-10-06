@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "text": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "date": "2026-10-06 15:25 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
@@ -151,14 +160,5 @@
     "date": "2026-10-05 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "text": "AI slop seems to be overwhelming bug bounty programs.",
-    "date": "2026-10-04 20:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
   }
 ]
