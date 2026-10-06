@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "text": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots and Instinct.",
+    "date": "2026-10-06 18:22 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Mirror Particle is building a ‘world model’ of human behavior",
@@ -61,6 +70,15 @@
     "date": "2026-10-06 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Advancing computer use with Ironclad",
+    "text": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "date": "2026-10-06 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
   },
   {
     "cat": "tools",
@@ -142,23 +160,5 @@
     "date": "2026-10-05 15:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/eu-text-provenance"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "text": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "date": "2026-10-05 14:35 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "text": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "date": "2026-10-05 14:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
   }
 ]
