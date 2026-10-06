@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "text": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "date": "2026-10-06 20:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "text": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "date": "2026-10-06 19:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Hark releases an AI personal assistant with a focus on privacy",
     "text": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
     "date": "2026-10-06 18:22 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-05 15:14 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "text": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "date": "2026-10-05 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Our approach to EU text provenance rules",
-    "text": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "date": "2026-10-05 15:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/eu-text-provenance"
   }
 ]
