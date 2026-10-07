@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "text": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "date": "2026-10-07 15:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
     "text": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
     "date": "2026-10-07 14:41 UTC",
@@ -38,20 +47,20 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the d",
-    "date": "2026-10-07 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
     "title": "Google’s new SynthID website can identify AI-generated media",
     "text": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
     "date": "2026-10-07 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the d",
+    "date": "2026-10-07 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
   },
   {
     "cat": "business",
@@ -88,6 +97,15 @@
     "date": "2026-10-06 20:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-06 19:57 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
   },
   {
     "cat": "agents",
@@ -142,23 +160,5 @@
     "date": "2026-10-06 15:25 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-    "text": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-    "date": "2026-10-06 14:33 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-    "text": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-    "date": "2026-10-06 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
   }
 ]
