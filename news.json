@@ -57,7 +57,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the d",
+    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save ",
     "date": "2026-10-07 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
@@ -108,15 +108,6 @@
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-06 19:57 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -160,5 +151,14 @@
     "date": "2026-10-06 16:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/atlassian-partnership"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "text": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "date": "2026-10-06 15:25 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
   }
 ]
