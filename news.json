@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "text": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "date": "2026-10-07 18:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
     "text": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
     "date": "2026-10-07 16:53 UTC",
@@ -92,6 +101,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "text": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "date": "2026-10-07 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/radisson"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
     "text": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
     "date": "2026-10-06 22:34 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-06 16:35 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "text": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-    "date": "2026-10-06 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "text": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "date": "2026-10-06 16:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/atlassian-partnership"
   }
 ]
