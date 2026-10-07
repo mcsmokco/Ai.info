@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "text": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI.",
+    "date": "2026-10-07 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the d",
+    "date": "2026-10-07 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Introducing Playground: Create and play custom games",
     "text": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
     "date": "2026-10-07 12:00 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-06 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Advancing computer use with Ironclad",
-    "text": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "date": "2026-10-06 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "text": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "date": "2026-10-05 20:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
   }
 ]
