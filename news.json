@@ -63,6 +63,15 @@
     "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "text": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "date": "2026-10-07 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/teens-learn-and-plan"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Introducing Playground: Create and play custom games",
@@ -151,14 +160,5 @@
     "date": "2026-10-06 16:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/atlassian-partnership"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "LibreOffice says ‘no AI’ is now a software feature",
-    "text": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-    "date": "2026-10-06 15:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
   }
 ]
