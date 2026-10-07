@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "text": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "date": "2026-10-07 20:22 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
     "text": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
     "date": "2026-10-07 18:30 UTC",
@@ -83,20 +92,20 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save ",
-    "date": "2026-10-07 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
     "title": "Google’s new SynthID website can identify AI-generated media",
     "text": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
     "date": "2026-10-07 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save ",
+    "date": "2026-10-07 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
   },
   {
     "cat": "tools",
@@ -151,14 +160,5 @@
     "date": "2026-10-06 20:35 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "text": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-    "date": "2026-10-06 20:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
   }
 ]
