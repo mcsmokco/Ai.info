@@ -117,15 +117,6 @@
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-06 19:57 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -160,5 +151,14 @@
     "date": "2026-10-06 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "text": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "date": "2026-10-06 16:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/atlassian-partnership"
   }
 ]
