@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Introducing Playground: Create and play custom games",
+    "text": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "date": "2026-10-07 12:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
@@ -25,6 +34,15 @@
     "date": "2026-10-06 20:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-06 19:57 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
   },
   {
     "cat": "agents",
@@ -142,23 +160,5 @@
     "date": "2026-10-05 20:36 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "text": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietar",
-    "date": "2026-10-05 19:33 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "text": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share ",
-    "date": "2026-10-05 18:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
   }
 ]
