@@ -18,6 +18,15 @@
     "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "text": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "date": "2026-10-08 16:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/oracle"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
@@ -61,6 +70,15 @@
     "date": "2026-10-08 13:20 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "text": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "date": "2026-10-08 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/pollo-ai"
   },
   {
     "cat": "tools",
@@ -142,23 +160,5 @@
     "date": "2026-10-07 14:41 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google experiments with an AI-powered gaming platform",
-    "text": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-    "date": "2026-10-07 14:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "text": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-    "date": "2026-10-07 14:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
   }
 ]
