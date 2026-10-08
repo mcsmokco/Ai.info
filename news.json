@@ -1,12 +1,57 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "text": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "date": "2026-10-08 18:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "text": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "date": "2026-10-08 18:19 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "text": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "date": "2026-10-08 18:19 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
-    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-    "text": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-    "date": "2026-10-08 16:00 UTC",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "text": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "date": "2026-10-08 18:18 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "text": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, a",
+    "date": "2026-10-08 18:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "text": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "date": "2026-10-08 18:10 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
   },
   {
     "cat": "agents",
@@ -16,6 +61,15 @@
     "date": "2026-10-08 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "text": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "date": "2026-10-08 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
   },
   {
     "cat": "tools",
@@ -106,59 +160,5 @@
     "date": "2026-10-07 20:22 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "text": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-    "date": "2026-10-07 18:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "text": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-    "date": "2026-10-07 18:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "text": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "date": "2026-10-07 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "text": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "date": "2026-10-07 16:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "text": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "date": "2026-10-07 15:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "text": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-    "date": "2026-10-07 14:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
   }
 ]
