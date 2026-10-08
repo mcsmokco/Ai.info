@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "text": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "date": "2026-10-08 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
     "text": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
     "date": "2026-10-08 14:00 UTC",
@@ -12,7 +21,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "text": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+    "text": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
     "date": "2026-10-08 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
@@ -34,6 +43,15 @@
     "date": "2026-10-08 13:20 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "text": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "date": "2026-10-08 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
   },
   {
     "cat": "agents",
@@ -137,28 +155,10 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "text": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-    "date": "2026-10-07 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
     "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
     "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save ",
     "date": "2026-10-07 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "text": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "date": "2026-10-07 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/teens-learn-and-plan"
   }
 ]
