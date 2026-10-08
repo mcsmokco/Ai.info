@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "text": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "date": "2026-10-08 20:04 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Ben Affleck is an AI nerd, and the internet is impressed",
@@ -151,14 +160,5 @@
     "date": "2026-10-07 20:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "text": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-    "date": "2026-10-07 20:22 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
   }
 ]
