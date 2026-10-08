@@ -9,6 +9,15 @@
     "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
   },
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "text": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "date": "2026-10-08 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
@@ -151,14 +160,5 @@
     "date": "2026-10-07 14:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "text": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-    "date": "2026-10-07 14:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
   }
 ]
