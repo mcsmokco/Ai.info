@@ -2,141 +2,6 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Google releases a new local-first Granola competitor",
-    "text": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-    "date": "2026-10-08 13:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-    "text": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
-    "date": "2026-10-08 13:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "text": "The developer of Hermes Agent raised a $90 million Series B.",
-    "date": "2026-10-07 20:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "text": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-    "date": "2026-10-07 20:22 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "text": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-    "date": "2026-10-07 18:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "text": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-    "date": "2026-10-07 18:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "text": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "date": "2026-10-07 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "text": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "date": "2026-10-07 16:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "text": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "date": "2026-10-07 15:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "text": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-    "date": "2026-10-07 14:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google experiments with an AI-powered gaming platform",
-    "text": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-    "date": "2026-10-07 14:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "text": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-    "date": "2026-10-07 14:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "text": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-    "date": "2026-10-07 14:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "text": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-    "date": "2026-10-07 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "text": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save ",
-    "date": "2026-10-07 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Helping teens learn, plan, and shape the future of AI",
     "text": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
     "date": "2026-10-07 12:00 UTC",
@@ -160,5 +25,140 @@
     "date": "2026-10-07 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/radisson"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "text": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "date": "2026-10-07 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-for-everyone"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-06 19:57 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "text": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "date": "2026-10-06 16:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/atlassian-partnership"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "text": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "date": "2026-10-06 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/jump-trading"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Sharing AI progress in mathematics",
+    "text": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "date": "2026-10-06 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Advancing computer use with Ironclad",
+    "text": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "date": "2026-10-06 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Our approach to EU text provenance rules",
+    "text": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "date": "2026-10-05 15:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/eu-text-provenance"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Building advertising for the way people use AI",
+    "text": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "date": "2026-10-05 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "A model guide for the GPT-6 family",
+    "text": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "date": "2026-10-02 16:15 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The latest AI news we announced in September 2026",
+    "text": "Here are Google’s latest AI updates from September 2026",
+    "date": "2026-10-02 15:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "text": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "date": "2026-10-02 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatham-financial"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The eternal complement",
+    "text": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "date": "2026-10-01 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-eternal-complement"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "text": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "date": "2026-10-01 16:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/albertsons-reimagining-retail"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "text": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "date": "2026-10-01 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-den-family-social"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-09-30 20:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
   }
 ]
