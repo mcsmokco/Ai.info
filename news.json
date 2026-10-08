@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "text": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "date": "2026-10-08 21:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "text": "The developer of Hermes Agent raised a $90 million Series B.",
-    "date": "2026-10-07 20:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
   }
 ]
