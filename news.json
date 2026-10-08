@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google releases a new local-first Granola competitor",
+    "text": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+    "date": "2026-10-08 13:28 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "text": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+    "date": "2026-10-08 13:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -142,23 +160,5 @@
     "date": "2026-10-07 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/radisson"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "text": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "date": "2026-10-07 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-6-for-everyone"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "text": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "date": "2026-10-06 22:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
   }
 ]
