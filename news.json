@@ -2,6 +2,42 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "text": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition ",
+    "date": "2026-10-09 16:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "text": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition ",
+    "date": "2026-10-09 16:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Danu Robotics’ fight to build a better recycling robot",
+    "text": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+    "date": "2026-10-09 16:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "text": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "date": "2026-10-09 16:40 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "a16z’s Olivia Moore on the state of consumer AI",
     "text": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
     "date": "2026-10-09 15:43 UTC",
@@ -124,41 +160,5 @@
     "date": "2026-10-08 16:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/oracle"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-    "text": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-    "date": "2026-10-08 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-    "text": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-    "date": "2026-10-08 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "text": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-    "date": "2026-10-08 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google releases a new local-first Granola competitor",
-    "text": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-    "date": "2026-10-08 13:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
   }
 ]
