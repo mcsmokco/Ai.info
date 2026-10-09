@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "text": "TypeSafe AI raised $870 million in a round led by a16Z.",
+    "date": "2026-10-09 21:41 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "text": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "date": "2026-10-09 19:36 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 18:10 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Natura’s $99 smart ring puts AI agents on your finger",
-    "text": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-    "date": "2026-10-08 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
   }
 ]
