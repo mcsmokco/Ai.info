@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "A16z’s Olivia Moore on the state of consumer AI",
+    "text": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "date": "2026-10-09 15:43 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
     "text": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
     "date": "2026-10-09 14:00 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 13:28 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-    "text": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-    "date": "2026-10-08 13:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
   }
 ]
