@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "text": "Is Apple hoping to get into the AI-generated podcast business?",
+    "date": "2026-10-10 19:50 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 18:19 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "text": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-    "date": "2026-10-08 18:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
   }
 ]
