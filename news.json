@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "date": "2026-10-10 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "text": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
     "date": "2026-10-10 00:18 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 18:18 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "text": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, a",
-    "date": "2026-10-08 18:16 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
   }
 ]
