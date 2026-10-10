@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "text": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "date": "2026-10-10 21:47 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
     "text": "Is Apple hoping to get into the AI-generated podcast business?",
     "date": "2026-10-10 19:50 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 18:20 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "text": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-    "date": "2026-10-08 18:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
   }
 ]
