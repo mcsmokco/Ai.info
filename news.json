@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "text": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "date": "2026-10-11 16:52 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -151,14 +160,5 @@
     "date": "2026-10-08 21:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "text": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "date": "2026-10-08 20:04 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
   }
 ]
