@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "text": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the p",
+    "date": "2026-10-11 21:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
@@ -151,14 +160,5 @@
     "date": "2026-10-09 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/sophos"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "text": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "date": "2026-10-09 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/asana-browser-agent"
   }
 ]
