@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "text": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+    "date": "2026-10-12 17:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
@@ -12,7 +21,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "text": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "text": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "date": "2026-10-12 15:31 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
@@ -151,14 +160,5 @@
     "date": "2026-10-09 16:56 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "text": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition ",
-    "date": "2026-10-09 16:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
   }
 ]
