@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "text": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+    "date": "2026-10-12 12:47 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Will the HomeView be Apple’s first smart home success?",
     "text": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
     "date": "2026-10-11 21:14 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-09 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "text": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "date": "2026-10-09 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/sophos"
   }
 ]
