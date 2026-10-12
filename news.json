@@ -3,7 +3,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Meta releases its first frontier model, Muse Wonder",
-    "text": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+    "text": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
     "date": "2026-10-12 17:56 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
@@ -12,10 +12,19 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "text": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+    "text": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
     "date": "2026-10-12 17:19 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "text": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "date": "2026-10-12 15:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
   },
   {
     "cat": "business",
@@ -151,14 +160,5 @@
     "date": "2026-10-09 19:36 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "text": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition ",
-    "date": "2026-10-09 16:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
   }
 ]
