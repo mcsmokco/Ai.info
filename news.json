@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "text": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "date": "2026-10-13 23:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "text": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "date": "2026-10-13 23:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Cerebras CEO pushes back on AI doomsday warnings",
@@ -142,23 +160,5 @@
     "date": "2026-10-13 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "text": "The startup will sell some of its assets to Disney for $20 million.",
-    "date": "2026-10-13 12:23 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "text": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "date": "2026-10-13 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice"
   }
 ]
