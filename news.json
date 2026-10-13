@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "text": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "date": "2026-10-13 22:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -7,6 +16,15 @@
     "date": "2026-10-13 20:36 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-13 19:43 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
   },
   {
     "cat": "business",
@@ -61,6 +79,24 @@
     "date": "2026-10-13 16:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon for Robotics",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-13 16:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-13 16:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
   },
   {
     "cat": "tools",
@@ -124,41 +160,5 @@
     "date": "2026-10-13 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "text": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-    "date": "2026-10-12 17:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "text": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "date": "2026-10-12 17:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "text": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-    "date": "2026-10-12 15:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "text": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "date": "2026-10-12 15:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
   }
 ]
