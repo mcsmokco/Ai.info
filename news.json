@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "text": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+    "date": "2026-10-13 17:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "text": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+    "date": "2026-10-13 17:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Google Play now supports private, vibe-coded apps built just for you",
@@ -142,23 +160,5 @@
     "date": "2026-10-12 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "text": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record u",
-    "date": "2026-10-12 12:47 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "text": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "date": "2026-10-11 21:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
   }
 ]
