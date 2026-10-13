@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "text": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "date": "2026-10-13 13:28 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
@@ -151,14 +160,5 @@
     "date": "2026-10-10 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-    "text": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even ",
-    "date": "2026-10-10 00:18 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
   }
 ]
