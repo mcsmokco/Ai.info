@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Facebook is giving users more control over their algorithm",
+    "text": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds.&#160; Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched ",
+    "date": "2026-10-13 18:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -9,10 +18,10 @@
     "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
   },
   {
-    "cat": "business",
-    "tag": "أعمال AI",
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "text": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+    "text": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
     "date": "2026-10-13 17:18 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
@@ -20,7 +29,7 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Google Play now supports private, vibe-coded apps built just for you",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
     "text": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
     "date": "2026-10-13 17:00 UTC",
     "source": "TechCrunch",
@@ -151,14 +160,5 @@
     "date": "2026-10-12 15:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "text": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hou",
-    "date": "2026-10-12 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
   }
 ]
