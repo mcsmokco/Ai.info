@@ -1,9 +1,18 @@
 [
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "text": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "date": "2026-10-13 18:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Facebook is giving users more control over their algorithm",
-    "text": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds.&#160; Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched ",
+    "text": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
     "date": "2026-10-13 18:05 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
@@ -12,7 +21,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "text": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+    "text": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in ",
     "date": "2026-10-13 17:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
@@ -38,29 +47,11 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
     "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
     "date": "2026-10-13 16:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon for Robotics",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
   },
   {
     "cat": "tools",
@@ -160,5 +151,14 @@
     "date": "2026-10-12 15:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "text": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hou",
+    "date": "2026-10-12 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
   }
 ]
