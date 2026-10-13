@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "date": "2026-10-13 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Gemini 4 Argon for Robotics",
     "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
     "date": "2026-10-13 16:01 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-11 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "text": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "date": "2026-10-11 16:52 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
   }
 ]
