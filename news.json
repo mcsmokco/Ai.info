@@ -11,8 +11,8 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
-    "text": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "text": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
     "date": "2026-10-14 15:13 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
@@ -61,15 +61,6 @@
     "date": "2026-10-14 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/third-moment-research"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "date": "2026-10-14 02:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
   },
   {
     "cat": "agents",
@@ -126,15 +117,6 @@
     "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 19:43 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
@@ -160,5 +142,23 @@
     "date": "2026-10-13 17:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "text": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "date": "2026-10-13 17:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "text": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "date": "2026-10-13 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
   }
 ]
