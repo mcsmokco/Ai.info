@@ -2,6 +2,42 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "text": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "date": "2026-10-14 15:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+    "text": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "date": "2026-10-14 15:13 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "text": "Zenzap is used by organizations including Starbucks and Taco Bell",
+    "date": "2026-10-14 15:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "text": "Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database designed to continuously collect, organize, and update the information used to understand their customers. Floqer is pi",
+    "date": "2026-10-14 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026: Day 2",
     "text": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
     "date": "2026-10-14 14:30 UTC",
@@ -16,15 +52,6 @@
     "date": "2026-10-14 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "date": "2026-10-14 02:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
   },
   {
     "cat": "agents",
@@ -81,15 +108,6 @@
     "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 19:43 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
@@ -142,23 +160,5 @@
     "date": "2026-10-13 16:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon for Robotics",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
   }
 ]
