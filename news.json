@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "date": "2026-10-14 02:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -151,14 +160,5 @@
     "date": "2026-10-13 13:50 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "text": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "date": "2026-10-13 13:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
   }
 ]
