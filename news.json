@@ -108,6 +108,15 @@
     "url": "https://openai.com/index/third-moment-research"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "date": "2026-10-14 02:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The EU’s next chapter in AI is agentic",
@@ -151,14 +160,5 @@
     "date": "2026-10-13 22:36 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "text": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "date": "2026-10-13 20:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
   }
 ]
