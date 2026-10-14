@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "text": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "date": "2026-10-14 18:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Deezer will soon let you filter out AI-generated music",
@@ -39,7 +48,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026: Day 2",
-    "text": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+    "text": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
     "date": "2026-10-14 14:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/"
@@ -52,6 +61,15 @@
     "date": "2026-10-14 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/amp-beyond-coding"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "text": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "date": "2026-10-14 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/sentinelone"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-13 19:43 UTC",
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "text": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-    "date": "2026-10-13 18:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Facebook is giving users more control over their algorithm",
-    "text": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "date": "2026-10-13 18:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
   }
 ]
