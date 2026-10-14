@@ -45,15 +45,6 @@
     "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 19:43 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
@@ -110,24 +101,6 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Gemini 4 Argon for Robotics",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-13 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "text": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
     "date": "2026-10-13 16:00 UTC",
@@ -160,5 +133,32 @@
     "date": "2026-10-13 13:28 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "text": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "date": "2026-10-13 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "text": "The startup will sell some of its assets to Disney for $20 million.",
+    "date": "2026-10-13 12:23 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "text": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "date": "2026-10-13 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice"
   }
 ]
