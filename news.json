@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "The EU’s next chapter in AI is agentic",
+    "text": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "date": "2026-10-14 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -151,14 +160,5 @@
     "date": "2026-10-13 12:23 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "text": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "date": "2026-10-13 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice"
   }
 ]
