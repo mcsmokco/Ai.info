@@ -117,15 +117,6 @@
     "url": "https://openai.com/index/block-ai-powered-security"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "date": "2026-10-14 02:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "The EU’s next chapter in AI is agentic",
@@ -160,5 +151,14 @@
     "date": "2026-10-13 23:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "text": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "date": "2026-10-13 22:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
   }
 ]
