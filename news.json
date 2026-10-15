@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "text": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+    "date": "2026-10-15 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Teaching students to think and learn through questions",
+    "text": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "date": "2026-10-15 13:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
     "text": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and",
     "date": "2026-10-15 12:00 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-14 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/third-moment-research"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "text": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "date": "2026-10-14 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/block-ai-powered-security"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "text": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "date": "2026-10-14 02:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
   }
 ]
