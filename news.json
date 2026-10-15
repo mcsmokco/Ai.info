@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "text": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+    "date": "2026-10-15 01:01 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "text": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gude",
+    "date": "2026-10-15 00:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
     "text": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
     "date": "2026-10-14 21:30 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-13 23:05 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "text": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-    "date": "2026-10-13 23:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "text": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "date": "2026-10-13 22:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
   }
 ]
