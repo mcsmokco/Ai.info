@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "text": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "date": "2026-10-15 16:08 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "AI agents are coming to Rivian’s cars",
@@ -151,14 +160,5 @@
     "date": "2026-10-14 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/amp-beyond-coding"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "text": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "date": "2026-10-14 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/sentinelone"
   }
 ]
