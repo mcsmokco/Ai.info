@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "text": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+    "date": "2026-10-15 23:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -52,6 +61,15 @@
     "date": "2026-10-15 18:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "text": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "date": "2026-10-15 16:08 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
   },
   {
     "cat": "agents",
@@ -142,23 +160,5 @@
     "date": "2026-10-14 18:23 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "text": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-    "date": "2026-10-14 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "text": "Deezer said that the new toggle will be rolled out by the end of the year.",
-    "date": "2026-10-14 15:16 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
   }
 ]
