@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "text": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "date": "2026-10-15 14:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "TechCrunch Disrupt 2026: Last day",
@@ -48,7 +57,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "text": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gude",
+    "text": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
     "date": "2026-10-15 00:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
@@ -151,14 +160,5 @@
     "date": "2026-10-14 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "text": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "date": "2026-10-14 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/third-moment-research"
   }
 ]
