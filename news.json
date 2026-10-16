@@ -72,6 +72,15 @@
     "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
   },
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "text": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "date": "2026-10-16 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -133,15 +142,6 @@
     "date": "2026-10-15 18:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "text": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "date": "2026-10-15 16:08 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
   },
   {
     "cat": "agents",
