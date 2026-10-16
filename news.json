@@ -2,8 +2,26 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
+    "date": "2026-10-16 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
+    "date": "2026-10-16 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "text": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "text": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
     "date": "2026-10-16 16:01 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
@@ -142,23 +160,5 @@
     "date": "2026-10-15 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Teaching students to think and learn through questions",
-    "text": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "date": "2026-10-15 13:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "text": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and",
-    "date": "2026-10-15 12:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
   }
 ]
