@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "text": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "date": "2026-10-16 17:52 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Teaching students to think and learn through questions",
-    "text": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "date": "2026-10-15 13:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
   }
 ]
