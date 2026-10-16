@@ -1,14 +1,5 @@
 [
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
-    "date": "2026-10-16 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-  },
-  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -16,6 +7,15 @@
     "date": "2026-10-16 16:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
+    "date": "2026-10-16 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
   },
   {
     "cat": "tools",
