@@ -135,6 +135,15 @@
     "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
   },
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "text": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "date": "2026-10-15 16:08 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "AI agents are coming to Rivian’s cars",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 14:29 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "text": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-    "date": "2026-10-15 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
   }
 ]
