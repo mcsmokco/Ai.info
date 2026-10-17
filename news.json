@@ -99,6 +99,15 @@
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "text": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "date": "2026-10-16 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/benefit-street-partners"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 18:56 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "text": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the da",
-    "date": "2026-10-15 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
   }
 ]
