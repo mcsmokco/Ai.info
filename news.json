@@ -90,15 +90,6 @@
     "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
   },
   {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "text": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "date": "2026-10-16 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-  },
-  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Benefit Street Partners answers questions faster with Codex",
@@ -106,6 +97,15 @@
     "date": "2026-10-16 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/benefit-street-partners"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "text": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "date": "2026-10-16 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
   },
   {
     "cat": "business",
