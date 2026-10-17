@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "text": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "date": "2026-10-17 20:21 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Replit is no longer working with Anthropic, CEO says",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 19:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "text": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "date": "2026-10-15 18:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
   }
 ]
