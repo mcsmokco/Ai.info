@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "text": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup pr",
+    "date": "2026-10-18 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Meta removes language that raised scraping and AI training concerns",
     "text": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "date": "2026-10-17 21:31 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 19:55 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "text": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "date": "2026-10-15 19:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
   }
 ]
