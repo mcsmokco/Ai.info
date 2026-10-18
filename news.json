@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "text": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "date": "2026-10-18 20:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
     "text": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "date": "2026-10-18 16:30 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-15 20:04 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "text": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "date": "2026-10-15 19:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
   }
 ]
