@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "text": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "date": "2026-10-19 16:13 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
     "text": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
     "date": "2026-10-19 15:37 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-16 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "text": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "date": "2026-10-15 23:44 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
   }
 ]
