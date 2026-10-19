@@ -1,5 +1,32 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "text": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "date": "2026-10-19 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "text": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "date": "2026-10-19 18:49 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "text": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "date": "2026-10-19 18:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "People are using AI to make their smart TVs dumb again",
@@ -66,7 +93,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
     "date": "2026-10-17 18:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
@@ -133,32 +160,5 @@
     "date": "2026-10-16 14:26 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "text": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "date": "2026-10-16 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "text": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "date": "2026-10-16 12:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "text": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "date": "2026-10-16 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/benefit-street-partners"
   }
 ]
