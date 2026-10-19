@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "text": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "date": "2026-10-19 20:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
@@ -39,7 +48,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "People are using AI to make their smart TVs dumb again",
-    "text": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "text": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "date": "2026-10-19 16:13 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
@@ -151,14 +160,5 @@
     "date": "2026-10-16 16:01 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "text": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "date": "2026-10-16 15:33 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
   }
 ]
