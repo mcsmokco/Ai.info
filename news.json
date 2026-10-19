@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "text": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "date": "2026-10-19 23:39 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
@@ -92,7 +101,7 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "title": "Advancing coding in low‑resource programming languages",
     "text": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
     "date": "2026-10-19 12:00 UTC",
     "source": "OpenAI",
@@ -151,14 +160,5 @@
     "date": "2026-10-16 19:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/itau-generative-ai"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "text": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "date": "2026-10-16 17:52 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
   }
 ]
