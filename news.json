@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "text": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated an",
+    "date": "2026-10-19 22:49 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -21,7 +30,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "text": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malic",
+    "text": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malic",
     "date": "2026-10-19 19:28 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
@@ -79,6 +88,15 @@
     "date": "2026-10-19 12:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "text": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "date": "2026-10-19 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/low-resource-programming-languages"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-16 17:52 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
-    "date": "2026-10-16 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "text": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebu",
-    "date": "2026-10-16 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
   }
 ]
