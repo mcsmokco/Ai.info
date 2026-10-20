@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "text": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "date": "2026-10-20 18:38 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "ChatGPT now lets you lock your chats",
+    "text": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat",
+    "date": "2026-10-20 18:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
@@ -56,20 +74,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "date": "2026-10-20 11:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "text": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter",
     "date": "2026-10-20 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "date": "2026-10-20 11:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
   },
   {
     "cat": "tools",
@@ -88,6 +106,15 @@
     "date": "2026-10-20 01:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI acquires Orchestra Bio",
+    "text": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "date": "2026-10-20 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
   },
   {
     "cat": "business",
@@ -133,32 +160,5 @@
     "date": "2026-10-19 19:28 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "text": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "date": "2026-10-19 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "text": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "date": "2026-10-19 18:49 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "text": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "date": "2026-10-19 18:37 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
   }
 ]
