@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "text": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "date": "2026-10-20 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
@@ -151,14 +160,5 @@
     "date": "2026-10-19 12:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Advancing coding in low‑resource programming languages",
-    "text": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "date": "2026-10-19 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/low-resource-programming-languages"
   }
 ]
