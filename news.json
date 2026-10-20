@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "text": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "date": "2026-10-20 17:55 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -151,14 +160,5 @@
     "date": "2026-10-19 18:37 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "text": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "date": "2026-10-19 16:13 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
   }
 ]
