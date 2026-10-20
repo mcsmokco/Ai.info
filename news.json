@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "text": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "date": "2026-10-20 21:25 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "SpaceX’s AI business is beating expectations",
     "text": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
     "date": "2026-10-20 20:40 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-19 22:49 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "text": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "date": "2026-10-19 22:04 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
   }
 ]
