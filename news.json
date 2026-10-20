@@ -2,8 +2,17 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "text": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "text": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "date": "2026-10-20 01:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "text": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
     "date": "2026-10-19 23:39 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
@@ -12,7 +21,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "text": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated an",
+    "text": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the",
     "date": "2026-10-19 22:49 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
@@ -21,7 +30,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "text": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "text": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
     "date": "2026-10-19 22:04 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
@@ -151,14 +160,5 @@
     "date": "2026-10-17 18:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "text": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "date": "2026-10-16 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/itau-generative-ai"
   }
 ]
