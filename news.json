@@ -1,12 +1,21 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "text": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "date": "2026-10-20 13:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "text": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter",
-    "date": "2026-10-20 11:00 UTC",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "text": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "date": "2026-10-20 13:00 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
   },
   {
     "cat": "tools",
@@ -16,6 +25,15 @@
     "date": "2026-10-20 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "text": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter",
+    "date": "2026-10-20 11:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-18 20:37 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Disney agrees to hire the majority of Character AI’s workforce",
-    "text": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "date": "2026-10-18 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "text": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "date": "2026-10-17 21:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
   }
 ]
