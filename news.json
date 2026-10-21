@@ -66,7 +66,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "text": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "text": "Eric Schmidt’s fortune is about to get even bigger.",
     "date": "2026-10-20 17:55 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
@@ -74,11 +74,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-    "text": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "text": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
     "date": "2026-10-20 17:12 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "text": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "date": "2026-10-20 16:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
   },
   {
     "cat": "tools",
@@ -119,20 +128,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-    "text": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-    "date": "2026-10-20 11:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Yelp can now call on your behalf to check wait times at a restaurant",
     "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
     "date": "2026-10-20 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+    "text": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+    "date": "2026-10-20 11:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
   },
   {
     "cat": "tools",
@@ -151,14 +160,5 @@
     "date": "2026-10-20 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/terminal-x"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "text": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "date": "2026-10-20 01:27 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
   }
 ]
