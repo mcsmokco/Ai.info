@@ -11,11 +11,38 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "text": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "date": "2026-10-21 13:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "OpenAI models are coming to Google Cloud",
     "text": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
     "date": "2026-10-21 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/openai-models-google-cloud"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "text": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "date": "2026-10-21 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "text": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "date": "2026-10-21 04:50 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
   },
   {
     "cat": "business",
@@ -133,32 +160,5 @@
     "date": "2026-10-20 14:13 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "text": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "date": "2026-10-20 13:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "text": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-    "date": "2026-10-20 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "date": "2026-10-20 11:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
   }
 ]
