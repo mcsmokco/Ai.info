@@ -111,19 +111,10 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "text": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "text": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
     "date": "2026-10-20 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "date": "2026-10-20 11:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
   },
   {
     "cat": "tools",
@@ -137,11 +128,29 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "date": "2026-10-20 11:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "text": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
     "date": "2026-10-20 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/ted-taylor-restaurant"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "text": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "date": "2026-10-20 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/terminal-x"
   },
   {
     "cat": "business",
@@ -151,14 +160,5 @@
     "date": "2026-10-20 01:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI acquires Orchestra Bio",
-    "text": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "date": "2026-10-20 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
   }
 ]
