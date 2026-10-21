@@ -27,6 +27,15 @@
     "url": "https://openai.com/index/openai-models-google-cloud"
   },
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "text": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "date": "2026-10-21 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
@@ -151,14 +160,5 @@
     "date": "2026-10-20 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "text": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-    "date": "2026-10-20 14:13 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
   }
 ]
