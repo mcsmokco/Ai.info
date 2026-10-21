@@ -56,6 +56,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "text": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "date": "2026-10-21 17:59 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "text": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "date": "2026-10-21 17:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "text": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
     "date": "2026-10-21 17:00 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-20 23:01 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "text": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "date": "2026-10-20 22:24 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "text": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "date": "2026-10-20 21:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
   }
 ]
