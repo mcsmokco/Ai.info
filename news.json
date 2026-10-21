@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "text": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "date": "2026-10-21 04:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -30,7 +39,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "SpaceX’s AI business is beating expectations",
-    "text": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "text": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
     "date": "2026-10-20 20:40 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
@@ -151,14 +160,5 @@
     "date": "2026-10-20 10:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/ted-taylor-restaurant"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "text": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "date": "2026-10-20 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/terminal-x"
   }
 ]
