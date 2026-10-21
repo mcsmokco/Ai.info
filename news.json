@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI models are coming to Google Cloud",
+    "text": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "date": "2026-10-21 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-models-google-cloud"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -151,14 +160,5 @@
     "date": "2026-10-20 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "text": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "date": "2026-10-20 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ted-taylor-restaurant"
   }
 ]
