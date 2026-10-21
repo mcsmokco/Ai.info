@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "text": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "date": "2026-10-21 19:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -74,6 +83,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "text": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "date": "2026-10-21 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/empowering-cyber-defenders"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "text": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "date": "2026-10-20 23:01 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-20 17:55 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "text": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "date": "2026-10-20 17:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "text": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "date": "2026-10-20 16:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
   }
 ]
