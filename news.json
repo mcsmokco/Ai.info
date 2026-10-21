@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "text": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "date": "2026-10-21 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/att-legal"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
@@ -151,14 +160,5 @@
     "date": "2026-10-20 16:20 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "text": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "date": "2026-10-20 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
   }
 ]
