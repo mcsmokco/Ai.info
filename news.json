@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "text": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "date": "2026-10-22 16:47 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
     "text": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
     "date": "2026-10-22 16:00 UTC",
@@ -48,7 +57,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "text": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+    "text": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "date": "2026-10-22 13:11 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
@@ -61,6 +70,15 @@
     "date": "2026-10-22 06:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "text": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "date": "2026-10-22 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-21 17:18 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "text": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "date": "2026-10-21 17:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/att-legal"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "text": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "date": "2026-10-21 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
   }
 ]
