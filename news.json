@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "text": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "date": "2026-10-22 15:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Beyond tree cover: mapping the world’s forest types",
@@ -151,14 +160,5 @@
     "date": "2026-10-21 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/openai-models-google-cloud"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "text": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "date": "2026-10-21 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
   }
 ]
