@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "text": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "date": "2026-10-22 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
     "text": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
     "date": "2026-10-22 15:03 UTC",
@@ -21,7 +30,7 @@
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Claude Duet app is Anthropic’s bet on agents",
-    "text": "Claude Duet is available through waitlist for Pro and Max plan users",
+    "text": "Claude Duet is available through waitlist for Pro and Max plan users.",
     "date": "2026-10-22 13:53 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
@@ -61,6 +70,15 @@
     "date": "2026-10-21 22:51 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "text": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+    "date": "2026-10-21 22:45 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-10-21 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "text": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "date": "2026-10-21 13:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI models are coming to Google Cloud",
-    "text": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "date": "2026-10-21 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-models-google-cloud"
   }
 ]
