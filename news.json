@@ -1,5 +1,41 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "text": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "date": "2026-10-22 19:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Canva releases its first image generation model",
+    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Build more responsive apps with the Decisions API",
+    "text": "Fast, focused, low-cost decisions for any application.",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/decisions-api"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -124,41 +160,5 @@
     "date": "2026-10-21 21:14 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Broad access through consistent standards",
-    "text": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "date": "2026-10-21 21:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "text": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "date": "2026-10-21 20:27 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "text": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-    "date": "2026-10-21 19:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "text": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-    "date": "2026-10-21 17:59 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
   }
 ]
