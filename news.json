@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "date": "2026-10-22 14:30 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -151,14 +160,5 @@
     "date": "2026-10-21 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "text": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "date": "2026-10-21 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack"
   }
 ]
