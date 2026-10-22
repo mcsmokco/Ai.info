@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "text": "Claude Duet is available through waitlist for Pro and Max plan users",
+    "date": "2026-10-22 13:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "text": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+    "date": "2026-10-22 13:26 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "DeepSeek reportedly raises $15B days after US restrictions",
@@ -7,6 +25,15 @@
     "date": "2026-10-22 13:11 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "What FDE means at OpenAI",
+    "text": "What forward deployed engineering means at OpenAI",
+    "date": "2026-10-22 06:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means"
   },
   {
     "cat": "business",
@@ -133,32 +160,5 @@
     "date": "2026-10-21 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/building-chatgpt-ad-stack"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "text": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "date": "2026-10-21 04:50 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "text": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-    "date": "2026-10-21 04:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "text": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "date": "2026-10-21 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/cloudflare-cyber"
   }
 ]
