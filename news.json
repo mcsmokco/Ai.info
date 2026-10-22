@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "text": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+    "date": "2026-10-22 13:11 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "text": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
     "date": "2026-10-21 22:51 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-21 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/cloudflare-cyber"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "text": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "date": "2026-10-21 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/empowering-cyber-defenders"
   }
 ]
