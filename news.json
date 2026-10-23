@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "text": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both ins",
+    "date": "2026-10-23 19:06 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -7,6 +16,15 @@
     "date": "2026-10-23 17:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Securing our frontier model training environment",
+    "text": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "date": "2026-10-23 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
   },
   {
     "cat": "business",
@@ -117,6 +135,15 @@
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "date": "2026-10-22 14:30 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -133,32 +160,5 @@
     "date": "2026-10-22 13:26 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "text": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "date": "2026-10-22 13:11 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "What FDE means at OpenAI",
-    "text": "What forward deployed engineering means at OpenAI",
-    "date": "2026-10-22 06:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "text": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "date": "2026-10-22 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
   }
 ]
