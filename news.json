@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "text": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "date": "2026-10-23 21:59 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "text": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both ins",
     "date": "2026-10-23 19:06 UTC",
@@ -74,20 +83,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Canva releases its first image generation model",
     "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "date": "2026-10-22 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
   },
   {
     "cat": "tools",
@@ -133,15 +142,6 @@
     "date": "2026-10-22 15:03 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "date": "2026-10-22 14:30 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
   },
   {
     "cat": "agents",
