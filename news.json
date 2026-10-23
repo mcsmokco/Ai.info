@@ -47,20 +47,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Canva releases its first image generation model",
     "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "date": "2026-10-22 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
   },
   {
     "cat": "tools",
@@ -108,15 +108,6 @@
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   },
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "date": "2026-10-22 14:30 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -160,5 +151,14 @@
     "date": "2026-10-22 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "text": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "date": "2026-10-21 22:51 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
   }
 ]
