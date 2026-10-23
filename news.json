@@ -20,6 +20,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "text": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "date": "2026-10-23 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "text": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
     "date": "2026-10-22 22:08 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-22 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "text": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-    "date": "2026-10-21 22:51 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
   }
 ]
