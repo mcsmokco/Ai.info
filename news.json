@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "text": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "date": "2026-10-23 04:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Left alone with nothing to do, AI agents started playing",
@@ -29,20 +38,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Canva releases its first image generation model",
-    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "date": "2026-10-22 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Canva releases its first image generation model",
+    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
   },
   {
     "cat": "tools",
@@ -151,14 +160,5 @@
     "date": "2026-10-21 22:51 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "text": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-    "date": "2026-10-21 22:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
   }
 ]
