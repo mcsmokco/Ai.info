@@ -117,6 +117,15 @@
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "date": "2026-10-22 14:30 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -151,14 +160,5 @@
     "date": "2026-10-22 06:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "text": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "date": "2026-10-22 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout"
   }
 ]
