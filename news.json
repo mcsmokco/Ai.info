@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "text": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "date": "2026-10-24 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Here are the top AI agents that can live in your text messages",
@@ -101,20 +110,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Canva releases its first image generation model",
-    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "text": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "date": "2026-10-22 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Canva releases its first image generation model",
+    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "date": "2026-10-22 19:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
   },
   {
     "cat": "tools",
@@ -151,14 +160,5 @@
     "date": "2026-10-22 16:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "text": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-    "date": "2026-10-22 15:03 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   }
 ]
