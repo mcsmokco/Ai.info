@@ -1,5 +1,14 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "date": "2026-10-24 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -151,14 +160,5 @@
     "date": "2026-10-22 15:03 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "text": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "date": "2026-10-22 14:30 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
   }
 ]
