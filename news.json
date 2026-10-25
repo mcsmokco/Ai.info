@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "text": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "date": "2026-10-25 16:57 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "The hottest AI wearables and gadgets you should know about",
     "text": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
     "date": "2026-10-25 14:10 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-10-22 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Build more responsive apps with the Decisions API",
-    "text": "Fast, focused, low-cost decisions for any application.",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/decisions-api"
   }
 ]
