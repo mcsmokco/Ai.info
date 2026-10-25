@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "text": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "date": "2026-10-25 21:31 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "text": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
     "date": "2026-10-25 16:57 UTC",
@@ -142,15 +151,6 @@
     "date": "2026-10-22 19:07 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Canva releases its first image generation model",
-    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
   },
   {
     "cat": "tools",
