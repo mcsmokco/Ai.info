@@ -2,6 +2,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "text": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "date": "2026-10-26 16:49 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "text": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ev",
+    "date": "2026-10-26 16:46 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Our newest AI Quest: Mapping the human brain",
     "text": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
     "date": "2026-10-26 16:00 UTC",
@@ -92,7 +110,7 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
     "text": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
     "date": "2026-10-23 23:05 UTC",
     "source": "TechCrunch",
@@ -142,23 +160,5 @@
     "date": "2026-10-23 04:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "text": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "date": "2026-10-23 00:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "text": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "date": "2026-10-23 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
   }
 ]
