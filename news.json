@@ -54,6 +54,24 @@
     "url": "https://openai.com/index/fanatics-streamline-fan-experience"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "text": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "date": "2026-10-26 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Introducing GPT-6.1 Terra",
+    "text": "Bringing fast and capable computer use to everyone",
+    "date": "2026-10-26 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -79,6 +97,15 @@
     "date": "2026-10-25 14:10 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "text": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "date": "2026-10-24 20:15 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
   },
   {
     "cat": "tools",
@@ -133,32 +160,5 @@
     "date": "2026-10-23 21:59 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "text": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both ins",
-    "date": "2026-10-23 19:06 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "text": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "date": "2026-10-23 17:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Securing our frontier model training environment",
-    "text": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "date": "2026-10-23 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
   }
 ]
