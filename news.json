@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "text": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "date": "2026-10-26 22:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -12,7 +21,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "text": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ev",
+    "text": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "date": "2026-10-26 16:46 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
@@ -34,6 +43,24 @@
     "date": "2026-10-26 14:35 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Working with academic communities to build scientific understanding",
+    "text": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "date": "2026-10-26 14:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "text": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "date": "2026-10-26 13:45 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
   },
   {
     "cat": "tools",
@@ -133,32 +160,5 @@
     "date": "2026-10-24 15:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "date": "2026-10-24 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-    "text": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "date": "2026-10-23 23:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "text": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "date": "2026-10-23 21:59 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
   }
 ]
