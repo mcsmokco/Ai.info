@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "text": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "date": "2026-10-26 16:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Anthropic officially files for its public debut",
@@ -151,14 +160,5 @@
     "date": "2026-10-23 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "text": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "date": "2026-10-22 22:08 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
   }
 ]
