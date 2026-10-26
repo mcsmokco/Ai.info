@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Anthropic officially files for its public debut",
+    "text": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "date": "2026-10-26 14:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "text": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "date": "2026-10-26 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "text": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
     "date": "2026-10-25 21:31 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-22 22:08 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "text": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "date": "2026-10-22 19:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Canva releases its first image generation model",
-    "text": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "date": "2026-10-22 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
   }
 ]
