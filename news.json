@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "text": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "date": "2026-10-27 02:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "text": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "date": "2026-10-27 01:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -142,23 +160,5 @@
     "date": "2026-10-24 19:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Block’s new voice model sounds eerily human",
-    "text": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-    "date": "2026-10-24 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "text": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "date": "2026-10-24 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
   }
 ]
