@@ -1,5 +1,41 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "text": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "date": "2026-10-27 23:34 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "text": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "date": "2026-10-27 22:55 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "text": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "date": "2026-10-27 21:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "text": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "date": "2026-10-27 21:38 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -75,7 +111,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "text": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "text": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
     "date": "2026-10-27 11:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
@@ -124,41 +160,5 @@
     "date": "2026-10-26 22:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/greptile-code-review-codex-astra"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "text": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-    "date": "2026-10-26 16:49 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "text": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "date": "2026-10-26 16:46 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "text": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-    "date": "2026-10-26 16:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic officially files for its public debut",
-    "text": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "date": "2026-10-26 14:35 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
   }
 ]
