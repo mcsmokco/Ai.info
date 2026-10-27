@@ -1,5 +1,50 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "text": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "date": "2026-10-27 14:59 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "text": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "date": "2026-10-27 13:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "text": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "date": "2026-10-27 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "text": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "date": "2026-10-27 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "text": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "date": "2026-10-27 11:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -115,50 +160,5 @@
     "date": "2026-10-26 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "text": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "date": "2026-10-25 21:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "text": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "date": "2026-10-25 16:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "text": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "date": "2026-10-25 14:10 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "text": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "date": "2026-10-24 20:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "date": "2026-10-24 19:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
   }
 ]
