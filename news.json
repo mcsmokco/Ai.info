@@ -1,5 +1,59 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "text": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "date": "2026-10-28 19:19 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "text": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
+    "date": "2026-10-28 19:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "text": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
+    "date": "2026-10-28 18:50 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-10-28 17:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "text": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "date": "2026-10-28 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "text": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "date": "2026-10-28 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "AI execs may be too out of touch to build for the general public",
@@ -27,6 +81,15 @@
     "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
   },
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "text": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "date": "2026-10-28 13:15 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
@@ -36,13 +99,13 @@
     "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
   },
   {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Legora is building the agentic operating system for legal work",
-    "text": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "date": "2026-10-28 09:30 UTC",
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The future of the firm",
+    "text": "How AI might enter the org chart—beneath, beside, and between us.",
+    "date": "2026-10-28 10:00 UTC",
     "source": "OpenAI",
-    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    "url": "https://openai.com/index/the-future-of-the-firm"
   },
   {
     "cat": "agents",
@@ -97,68 +160,5 @@
     "date": "2026-10-27 21:38 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "text": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "date": "2026-10-27 18:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "text": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "date": "2026-10-27 17:08 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "text": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "date": "2026-10-27 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Genie 4: A new generation of world simulation",
-    "text": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "date": "2026-10-27 16:01 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "text": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "date": "2026-10-27 14:59 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Japan internet giant GMO says hackers posted stolen customer data",
-    "text": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-    "date": "2026-10-27 13:32 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "text": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "date": "2026-10-27 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
   }
 ]
