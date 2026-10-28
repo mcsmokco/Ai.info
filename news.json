@@ -2,6 +2,60 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "text": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "date": "2026-10-28 15:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "text": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "date": "2026-10-28 15:41 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "text": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs",
+    "date": "2026-10-28 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "text": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leader",
+    "date": "2026-10-28 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Legora is building the agentic operating system for legal work",
+    "text": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "date": "2026-10-28 09:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Legora is building the agentic operating system for legal work",
+    "text": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "date": "2026-10-28 09:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/legora"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
     "text": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
     "date": "2026-10-28 01:15 UTC",
@@ -106,59 +160,5 @@
     "date": "2026-10-27 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "text": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "date": "2026-10-27 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "text": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-    "date": "2026-10-27 11:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "text": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "date": "2026-10-27 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "text": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "date": "2026-10-27 02:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "text": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "date": "2026-10-27 01:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "text": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "date": "2026-10-27 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/check-point-daybreak"
   }
 ]
