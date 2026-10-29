@@ -1,5 +1,32 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "text": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "date": "2026-10-29 20:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "text": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "date": "2026-10-29 20:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "text": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "date": "2026-10-29 19:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Meta quietly launches an AI fashion app called Style Sketch",
@@ -133,32 +160,5 @@
     "date": "2026-10-28 21:25 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "text": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "date": "2026-10-28 19:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-    "text": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
-    "date": "2026-10-28 19:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-    "text": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
-    "date": "2026-10-28 18:50 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
   }
 ]
