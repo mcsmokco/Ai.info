@@ -1,9 +1,72 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "text": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "date": "2026-10-29 19:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "text": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "date": "2026-10-29 17:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "text": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "date": "2026-10-29 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "text": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "date": "2026-10-29 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/updated-model-spec"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "text": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "date": "2026-10-29 16:42 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "text": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "date": "2026-10-29 16:21 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "text": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "date": "2026-10-29 14:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "text": "Deepgram said that it is committed to keep Pipecat open source.",
+    "text": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
     "date": "2026-10-29 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
@@ -11,11 +74,29 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-    "text": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+    "text": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
     "date": "2026-10-29 13:00 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/"
+    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "How we detect frontier model misalignment",
+    "text": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "date": "2026-10-29 09:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "text": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "date": "2026-10-29 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence"
   },
   {
     "cat": "business",
@@ -79,86 +160,5 @@
     "date": "2026-10-28 18:50 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-10-28 17:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "text": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "date": "2026-10-28 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "text": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "date": "2026-10-28 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI execs may be too out of touch to build for the general public",
-    "text": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-    "date": "2026-10-28 15:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-    "text": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-    "date": "2026-10-28 15:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-    "text": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs",
-    "date": "2026-10-28 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "text": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "date": "2026-10-28 13:15 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "text": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leader",
-    "date": "2026-10-28 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The future of the firm",
-    "text": "How AI might enter the org chart—beneath, beside, and between us.",
-    "date": "2026-10-28 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/the-future-of-the-firm"
   }
 ]
