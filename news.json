@@ -2,6 +2,51 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "text": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "date": "2026-10-30 16:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "text": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event ",
+    "date": "2026-10-30 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "text": "DoorDash said that it is open to working with third-party agent makers.",
+    "date": "2026-10-30 13:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "text": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+    "date": "2026-10-30 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "text": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "date": "2026-10-30 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "text": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
     "date": "2026-10-30 01:20 UTC",
@@ -115,50 +160,5 @@
     "date": "2026-10-29 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-    "text": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-    "date": "2026-10-29 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "How we detect frontier model misalignment",
-    "text": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "date": "2026-10-29 09:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "text": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "date": "2026-10-29 07:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "text": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-    "date": "2026-10-28 21:58 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "text": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "date": "2026-10-28 21:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
   }
 ]
