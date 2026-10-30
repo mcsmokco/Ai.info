@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "text": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "date": "2026-10-30 01:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "text": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "date": "2026-10-29 23:42 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
     "text": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
     "date": "2026-10-29 20:08 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-28 21:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "date": "2026-10-28 21:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "text": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "date": "2026-10-28 21:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
   }
 ]
