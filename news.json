@@ -2,6 +2,33 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "text": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "date": "2026-10-31 21:41 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "text": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door",
+    "date": "2026-10-31 21:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "text": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "date": "2026-10-31 21:17 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "OpenAI reportedly lowers funding target for new round",
     "text": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
     "date": "2026-10-31 16:12 UTC",
@@ -133,32 +160,5 @@
     "date": "2026-10-30 09:30 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Community safety report and new protections for teens",
-    "text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "date": "2026-10-30 09:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "text": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-    "date": "2026-10-30 01:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Fair use benefits everyone",
-    "text": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "date": "2026-10-30 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/fair-use-benefits-everyone"
   }
 ]
