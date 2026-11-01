@@ -2,6 +2,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "text": "Data centers are deeply unpopular. But what if we called them something else?",
+    "date": "2026-11-01 21:55 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "text": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "date": "2026-11-01 20:57 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "text": "Apple's new CEO defended the company's current position in the AI landscape.",
     "date": "2026-10-31 21:41 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-10-30 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "text": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-    "date": "2026-10-30 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Making it easier for websites to express AI training preferences",
-    "text": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "date": "2026-10-30 09:30 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
   }
 ]
