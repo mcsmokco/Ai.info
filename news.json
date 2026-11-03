@@ -1,5 +1,41 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "text": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "date": "2026-11-03 01:49 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "text": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his",
+    "date": "2026-11-03 00:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "text": "The one-year-old startup is now valued at $300 million.",
+    "date": "2026-11-02 23:13 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "date": "2026-11-02 22:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Web host Squarespace lays off 19% of its employees",
@@ -16,6 +52,24 @@
     "date": "2026-11-02 19:19 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "date": "2026-11-02 18:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "date": "2026-11-02 18:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
   },
   {
     "cat": "business",
@@ -43,6 +97,15 @@
     "date": "2026-11-02 16:23 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Scaling Git at OpenAI",
+    "text": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "date": "2026-11-02 15:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai"
   },
   {
     "cat": "business",
@@ -97,68 +160,5 @@
     "date": "2026-11-02 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/qodo-codex-plugin"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "text": "Data centers are deeply unpopular. But what if we called them something else?",
-    "date": "2026-11-01 21:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "text": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "date": "2026-11-01 20:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "text": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-    "date": "2026-11-01 02:22 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "text": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "date": "2026-10-31 21:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "text": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door",
-    "date": "2026-10-31 21:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "text": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "date": "2026-10-31 21:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "text": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "date": "2026-10-31 16:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
   }
 ]
