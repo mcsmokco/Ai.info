@@ -2,6 +2,60 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "text": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+    "date": "2026-11-03 17:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "text": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "date": "2026-11-03 17:01 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "text": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "date": "2026-11-03 16:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "text": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+    "date": "2026-11-03 15:38 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "text": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "date": "2026-11-03 14:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "text": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+    "date": "2026-11-03 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Heimstaden is changing residential real estate management with AI",
     "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
     "date": "2026-11-03 08:00 UTC",
@@ -83,20 +137,20 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "date": "2026-11-02 18:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Preparing our next security sprint to harden OpenAI",
     "text": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
     "date": "2026-11-02 18:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "text": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "date": "2026-11-02 18:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
   },
   {
     "cat": "business",
@@ -106,59 +160,5 @@
     "date": "2026-11-02 17:45 UTC",
     "source": "Google AI",
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "text": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "date": "2026-11-02 16:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "text": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-    "date": "2026-11-02 16:23 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Scaling Git at OpenAI",
-    "text": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-    "date": "2026-11-02 15:30 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-git-at-openai"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "text": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-    "date": "2026-11-02 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Introducing the Grid Protectors Program",
-    "text": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "date": "2026-11-02 15:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/grid-protectors-program"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "text": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-    "date": "2026-11-02 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
   }
 ]
