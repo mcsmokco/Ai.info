@@ -2,6 +2,33 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "date": "2026-11-03 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/heimstaden"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "text": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "date": "2026-11-03 07:20 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "text": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "date": "2026-11-03 03:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
     "text": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
     "date": "2026-11-03 01:49 UTC",
@@ -133,32 +160,5 @@
     "date": "2026-11-02 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "text": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-    "date": "2026-11-02 13:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "LifeVal",
-    "text": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "date": "2026-11-02 09:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/lifeval"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Qodo builds context into AI code review with Codex",
-    "text": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "date": "2026-11-02 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/qodo-codex-plugin"
   }
 ]
