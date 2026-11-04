@@ -2,6 +2,51 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "text": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "date": "2026-11-04 16:51 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "text": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "date": "2026-11-04 16:17 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "text": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "date": "2026-11-04 14:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "text": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "date": "2026-11-04 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "text": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "date": "2026-11-04 07:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "text": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
     "date": "2026-11-03 22:41 UTC",
@@ -115,50 +160,5 @@
     "date": "2026-11-03 12:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "text": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "date": "2026-11-03 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/cisco-cyber"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "text": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "date": "2026-11-03 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/heimstaden"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "text": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-    "date": "2026-11-03 07:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "text": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-    "date": "2026-11-03 03:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "text": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-    "date": "2026-11-03 01:49 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
   }
 ]
