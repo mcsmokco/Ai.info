@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "text": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "date": "2026-11-05 12:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "text": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "date": "2026-11-05 02:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -142,23 +160,5 @@
     "date": "2026-11-04 07:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/daybreak-red-aws-govcloud"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Introducing Images 2.6",
-    "text": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "date": "2026-11-04 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-images-2-6"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "text": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "date": "2026-11-04 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/devrev-enterprise-self-service"
   }
 ]
