@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "text": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "date": "2026-11-05 01:26 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "text": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "date": "2026-11-05 01:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -126,6 +144,15 @@
     "url": "https://openai.com/index/daybreak-red-aws-govcloud"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Introducing Images 2.6",
+    "text": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "date": "2026-11-04 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-images-2-6"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
@@ -133,32 +160,5 @@
     "date": "2026-11-04 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/devrev-enterprise-self-service"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "text": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "date": "2026-11-03 22:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "text": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "date": "2026-11-03 22:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "text": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "date": "2026-11-03 21:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
   }
 ]
