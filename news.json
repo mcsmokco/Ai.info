@@ -2,6 +2,15 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "date": "2026-11-05 22:40 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Meta says US users can now video chat with their Muse AI avatar",
     "text": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
     "date": "2026-11-05 19:48 UTC",
@@ -30,7 +39,7 @@
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "text": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "text": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
     "date": "2026-11-05 18:02 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
@@ -43,6 +52,15 @@
     "date": "2026-11-05 18:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-05 17:05 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
   },
   {
     "cat": "tools",
@@ -119,6 +137,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "text": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "date": "2026-11-05 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/merge-builds-with-openai"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Setting a new standard for responsible AI infrastructure",
     "text": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
     "date": "2026-11-05 02:00 UTC",
@@ -133,32 +160,5 @@
     "date": "2026-11-05 01:26 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "text": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "date": "2026-11-05 01:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "text": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-    "date": "2026-11-04 22:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "text": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "date": "2026-11-04 22:13 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
   }
 ]
