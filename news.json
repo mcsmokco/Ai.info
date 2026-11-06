@@ -1,5 +1,50 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "text": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "date": "2026-11-06 18:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "text": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "date": "2026-11-06 18:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
+    "date": "2026-11-06 18:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
+    "date": "2026-11-06 17:23 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "date": "2026-11-06 15:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -27,6 +72,15 @@
     "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "text": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "date": "2026-11-06 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/partnering-with-hacktron"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -34,6 +88,15 @@
     "date": "2026-11-06 06:28 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "text": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "date": "2026-11-06 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
   },
   {
     "cat": "agents",
@@ -97,68 +160,5 @@
     "date": "2026-11-05 18:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Australian universities are creating AI-native graduates",
-    "text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "date": "2026-11-05 17:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "text": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-    "date": "2026-11-05 17:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "text": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "date": "2026-11-05 16:16 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "text": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "date": "2026-11-05 15:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "text": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "date": "2026-11-05 14:42 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "text": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "date": "2026-11-05 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "text": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "date": "2026-11-05 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
   }
 ]
