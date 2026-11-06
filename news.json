@@ -2,11 +2,29 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "text": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "date": "2026-11-06 06:28 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "date": "2026-11-05 22:40 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "text": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "date": "2026-11-05 20:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/cultfit-builds-with-codex"
   },
   {
     "cat": "agents",
@@ -56,11 +74,11 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-05 17:05 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    "title": "Australian universities are creating AI-native graduates",
+    "text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "date": "2026-11-05 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates"
   },
   {
     "cat": "tools",
@@ -142,23 +160,5 @@
     "date": "2026-11-05 08:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/merge-builds-with-openai"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "text": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "date": "2026-11-05 02:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "text": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-    "date": "2026-11-05 01:26 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
   }
 ]
