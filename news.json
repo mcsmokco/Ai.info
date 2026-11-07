@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "text": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "date": "2026-11-06 22:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "text": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "date": "2026-11-06 18:44 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-05 18:02 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "text": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "date": "2026-11-05 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
   }
 ]
