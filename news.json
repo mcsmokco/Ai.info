@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "text": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "date": "2026-11-07 21:17 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "text": "The deal highlights the challenges of developing massive AI data centers.",
     "date": "2026-11-07 01:40 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-05 19:12 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "text": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "date": "2026-11-05 19:06 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
   }
 ]
