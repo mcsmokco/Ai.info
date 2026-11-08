@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "text": "In a memo to the company, Huang admitted that he had an affair.",
+    "date": "2026-11-08 21:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
     "text": "On Equity, we unpacked what the midterms mean for the tech industry.",
     "date": "2026-11-07 22:07 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-05 20:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/cultfit-builds-with-codex"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "text": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "date": "2026-11-05 19:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
   }
 ]
