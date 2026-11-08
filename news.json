@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "text": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "date": "2026-11-07 22:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
     "text": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
     "date": "2026-11-07 21:17 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-05 19:48 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "text": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "date": "2026-11-05 19:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
   }
 ]
