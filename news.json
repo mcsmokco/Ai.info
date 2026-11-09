@@ -2,7 +2,88 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "text": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "date": "2026-11-09 20:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "text": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "date": "2026-11-09 19:24 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "text": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "date": "2026-11-09 19:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "text": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "date": "2026-11-09 18:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "text": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "date": "2026-11-09 18:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "text": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "date": "2026-11-09 16:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "text": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "date": "2026-11-09 16:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "text": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "date": "2026-11-09 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "text": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "date": "2026-11-09 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/kuken"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
     "text": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
     "date": "2026-11-09 05:26 UTC",
     "source": "TechCrunch",
@@ -34,6 +115,15 @@
     "date": "2026-11-07 21:17 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "text": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "date": "2026-11-07 04:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
   },
   {
     "cat": "business",
@@ -70,95 +160,5 @@
     "date": "2026-11-06 18:44 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
-    "date": "2026-11-06 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "text": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
-    "date": "2026-11-06 17:23 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "date": "2026-11-06 15:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "text": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "date": "2026-11-06 14:10 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "text": "Despite its small size, Underdog's new model can generate both speech and music.",
-    "date": "2026-11-06 13:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "text": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "date": "2026-11-06 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "text": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "date": "2026-11-06 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/partnering-with-hacktron"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "text": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "date": "2026-11-06 06:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "text": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "date": "2026-11-06 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "date": "2026-11-05 22:40 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
   }
 ]
