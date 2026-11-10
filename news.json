@@ -2,6 +2,42 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "text": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "date": "2026-11-10 01:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "text": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "date": "2026-11-09 23:28 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "text": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "date": "2026-11-09 22:46 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The race is on to sue Nvidia",
+    "text": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensiv",
+    "date": "2026-11-09 22:23 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
     "text": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
     "date": "2026-11-09 20:09 UTC",
@@ -74,6 +110,24 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "text": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "date": "2026-11-09 13:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/control-room"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "text": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "date": "2026-11-09 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Kuken Industries searches 70 years of drawings in minutes",
     "text": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
     "date": "2026-11-09 08:00 UTC",
@@ -106,59 +160,5 @@
     "date": "2026-11-07 22:07 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "text": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "date": "2026-11-07 21:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "text": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-    "date": "2026-11-07 04:16 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "text": "The deal highlights the challenges of developing massive AI data centers.",
-    "date": "2026-11-07 01:40 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "text": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "date": "2026-11-06 22:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "text": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "date": "2026-11-06 18:44 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "text": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "date": "2026-11-06 18:44 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
   }
 ]
