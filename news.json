@@ -2,6 +2,69 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "text": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "date": "2026-11-10 21:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "text": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "date": "2026-11-10 20:52 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "text": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "date": "2026-11-10 19:57 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "text": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "date": "2026-11-10 19:23 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "text": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "date": "2026-11-10 19:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "text": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "date": "2026-11-10 19:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "text": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "date": "2026-11-10 18:49 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "text": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
     "date": "2026-11-10 17:30 UTC",
@@ -63,15 +126,6 @@
     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
   },
   {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "text": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-    "date": "2026-11-10 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
-  },
-  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
@@ -79,6 +133,15 @@
     "date": "2026-11-10 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "text": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "date": "2026-11-10 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
   },
   {
     "cat": "tools",
@@ -97,68 +160,5 @@
     "date": "2026-11-10 13:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "text": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-    "date": "2026-11-10 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "text": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "date": "2026-11-10 13:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "text": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-    "date": "2026-11-10 12:02 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Helping caregivers use AI in everyday life",
-    "text": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "date": "2026-11-10 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Introducing Businesses in ChatGPT",
-    "text": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "date": "2026-11-10 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Closing the AI guidance gap in education",
-    "text": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "date": "2026-11-10 09:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "text": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "date": "2026-11-10 07:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
   }
 ]
