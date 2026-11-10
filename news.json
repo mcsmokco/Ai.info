@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Closing the AI guidance gap in education",
+    "text": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "date": "2026-11-10 09:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "text": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "date": "2026-11-10 07:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -142,23 +160,5 @@
     "date": "2026-11-09 05:26 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "text": "In a memo to the company, Huang admitted that he had an affair.",
-    "date": "2026-11-08 21:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "text": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "date": "2026-11-07 22:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
   }
 ]
