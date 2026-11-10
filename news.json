@@ -2,8 +2,152 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "text": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "date": "2026-11-10 17:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "text": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "date": "2026-11-10 17:04 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini 4 Carbon is now available",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-10 16:03 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "text": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "date": "2026-11-10 15:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "text": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "date": "2026-11-10 15:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "text": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "date": "2026-11-10 14:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "text": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "date": "2026-11-10 14:01 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "text": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "date": "2026-11-10 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "text": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "date": "2026-11-10 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "text": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "date": "2026-11-10 14:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "text": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "date": "2026-11-10 13:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "text": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+    "date": "2026-11-10 13:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "text": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "date": "2026-11-10 13:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "text": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "date": "2026-11-10 12:02 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Helping caregivers use AI in everyday life",
+    "text": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "date": "2026-11-10 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Introducing Businesses in ChatGPT",
+    "text": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "date": "2026-11-10 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Closing the AI guidance gap in education",
-    "text": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "text": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "date": "2026-11-10 09:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education"
@@ -16,149 +160,5 @@
     "date": "2026-11-10 07:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "text": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "date": "2026-11-10 01:27 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-    "text": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "date": "2026-11-09 23:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "text": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "date": "2026-11-09 22:46 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The race is on to sue Nvidia",
-    "text": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensiv",
-    "date": "2026-11-09 22:23 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "text": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "date": "2026-11-09 20:09 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "text": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "date": "2026-11-09 19:24 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "text": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "date": "2026-11-09 19:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "text": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "date": "2026-11-09 18:09 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "text": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "date": "2026-11-09 18:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "text": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "date": "2026-11-09 16:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "text": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "date": "2026-11-09 16:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "text": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "date": "2026-11-09 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "text": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "date": "2026-11-09 13:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/control-room"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "text": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "date": "2026-11-09 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/coderabbit-codex-daybreak"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "text": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "date": "2026-11-09 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/kuken"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "text": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-    "date": "2026-11-09 05:26 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
   }
 ]
