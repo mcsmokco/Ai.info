@@ -9,6 +9,33 @@
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
   },
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "text": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "date": "2026-11-11 09:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "text": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "date": "2026-11-11 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "text": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "date": "2026-11-11 07:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -133,32 +160,5 @@
     "date": "2026-11-10 14:01 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "text": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-    "date": "2026-11-10 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "text": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-    "date": "2026-11-10 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "text": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-    "date": "2026-11-10 14:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
   }
 ]
