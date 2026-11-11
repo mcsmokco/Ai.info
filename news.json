@@ -9,6 +9,69 @@
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "text": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "date": "2026-11-11 18:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "text": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "date": "2026-11-11 16:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "text": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "date": "2026-11-11 16:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "text": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "date": "2026-11-11 16:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "text": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "date": "2026-11-11 15:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "text": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "date": "2026-11-11 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "text": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "date": "2026-11-11 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -34,6 +97,15 @@
     "date": "2026-11-11 07:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "text": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "date": "2026-11-11 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri"
   },
   {
     "cat": "tools",
@@ -88,77 +160,5 @@
     "date": "2026-11-10 19:00 UTC",
     "source": "Google AI",
     "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "text": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "date": "2026-11-10 18:49 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "text": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "date": "2026-11-10 17:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "text": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "date": "2026-11-10 17:04 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini 4 Carbon is now available",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-10 16:03 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "text": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-    "date": "2026-11-10 15:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "text": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "date": "2026-11-10 15:29 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-    "text": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-    "date": "2026-11-10 14:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "text": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-    "date": "2026-11-10 14:01 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
   }
 ]
