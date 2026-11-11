@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "text": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "date": "2026-11-12 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -151,14 +160,5 @@
     "date": "2026-11-10 14:00 UTC",
     "source": "Google AI",
     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-    "text": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-    "date": "2026-11-10 13:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
   }
 ]
