@@ -2,6 +2,132 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Muse can now place calls to U.S. businesses — if you pay",
+    "text": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+    "date": "2026-11-12 22:22 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "date": "2026-11-12 21:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "text": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "date": "2026-11-12 21:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "text": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "date": "2026-11-12 20:26 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "text": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "date": "2026-11-12 20:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/amplitude"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "text": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "date": "2026-11-12 19:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "text": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "date": "2026-11-12 19:11 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "text": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "date": "2026-11-12 18:39 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-12 18:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "text": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "date": "2026-11-12 18:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "text": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "date": "2026-11-12 17:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "text": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "date": "2026-11-12 17:17 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "text": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "date": "2026-11-12 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "text": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "date": "2026-11-12 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Jensen Huang agrees to testify before Congress",
     "text": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
     "date": "2026-11-12 16:36 UTC",
@@ -34,131 +160,5 @@
     "date": "2026-11-12 15:37 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "text": "This is the investment firm's largest fund to date.",
-    "date": "2026-11-12 15:18 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "text": "This is Fireworks' second data breach in as many months.",
-    "date": "2026-11-12 15:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "date": "2026-11-12 14:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "text": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
-    "date": "2026-11-12 13:26 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "text": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "date": "2026-11-12 09:30 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "text": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-    "date": "2026-11-12 03:13 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Supporting research on AI and children’s safety",
-    "text": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "date": "2026-11-12 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/children-first-declaration"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "text": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "date": "2026-11-12 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "text": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "date": "2026-11-11 23:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "text": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "date": "2026-11-11 23:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Why the data center you dread might never even be built",
-    "text": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the ",
-    "date": "2026-11-11 20:15 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta is losing its longtime head of infrastructure",
-    "text": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "date": "2026-11-11 20:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "text": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the ",
-    "date": "2026-11-11 20:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "text": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-    "date": "2026-11-11 19:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
   }
 ]
