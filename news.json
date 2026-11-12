@@ -2,11 +2,101 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "text": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "date": "2026-11-12 16:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "text": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "date": "2026-11-12 16:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "text": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "date": "2026-11-12 16:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "text": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+    "date": "2026-11-12 15:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "text": "This is the investment firm's largest fund to date.",
+    "date": "2026-11-12 15:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "text": "This is Fireworks' second data breach in as many months.",
+    "date": "2026-11-12 15:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "date": "2026-11-12 14:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "text": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+    "date": "2026-11-12 13:26 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "text": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "date": "2026-11-12 09:30 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
     "text": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
     "date": "2026-11-12 03:13 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Supporting research on AI and children’s safety",
+    "text": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "date": "2026-11-12 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/children-first-declaration"
   },
   {
     "cat": "business",
@@ -16,15 +106,6 @@
     "date": "2026-11-12 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "text": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "date": "2026-11-11 23:50 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
   },
   {
     "cat": "business",
@@ -79,86 +160,5 @@
     "date": "2026-11-11 19:54 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "text": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "date": "2026-11-11 19:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "text": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "date": "2026-11-11 19:22 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "text": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "date": "2026-11-11 18:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "text": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "date": "2026-11-11 16:16 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "text": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-    "date": "2026-11-11 16:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "text": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "date": "2026-11-11 16:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "text": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-    "date": "2026-11-11 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "text": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "date": "2026-11-11 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "text": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-    "date": "2026-11-11 09:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
   }
 ]
