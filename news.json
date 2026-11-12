@@ -2,6 +2,15 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "text": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "date": "2026-11-12 03:13 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "text": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
     "date": "2026-11-12 00:00 UTC",
@@ -66,7 +75,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "text": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "text": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
     "date": "2026-11-11 19:54 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
@@ -151,14 +160,5 @@
     "date": "2026-11-11 09:00 UTC",
     "source": "Google AI",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "text": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "date": "2026-11-11 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans"
   }
 ]
