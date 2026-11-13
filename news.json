@@ -2,8 +2,17 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Muse can now place calls to U.S. businesses — if you pay",
-    "text": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "text": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "date": "2026-11-12 22:42 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "text": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
     "date": "2026-11-12 22:22 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
@@ -42,7 +51,7 @@
     "text": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
     "date": "2026-11-12 20:00 UTC",
     "source": "OpenAI",
-    "url": "https://openai.com/index/amplitude"
+    "url": "https://openai.com/business/customer-stories/amplitude"
   },
   {
     "cat": "tools",
@@ -70,15 +79,6 @@
     "date": "2026-11-12 18:39 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Introducing Gemini 4 Hydrogen",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-12 18:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
   },
   {
     "cat": "tools",
