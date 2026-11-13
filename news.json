@@ -1,5 +1,32 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "text": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "date": "2026-11-13 22:43 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "text": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "date": "2026-11-13 19:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "text": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "date": "2026-11-13 18:40 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -128,37 +155,10 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Introducing Gemini 4 Hydrogen",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-12 18:00 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "text": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
     "date": "2026-11-12 18:00 UTC",
     "source": "Google AI",
     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "text": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "date": "2026-11-12 17:36 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "text": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "date": "2026-11-12 17:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
   }
 ]
