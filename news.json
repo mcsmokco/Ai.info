@@ -83,6 +83,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-12 18:00 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "text": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
     "date": "2026-11-12 18:00 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-12 16:12 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "text": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "date": "2026-11-12 15:37 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
   }
 ]
