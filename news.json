@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "date": "2026-11-14 17:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "text": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "date": "2026-11-14 16:34 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -142,23 +160,5 @@
     "date": "2026-11-12 19:27 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "text": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-    "date": "2026-11-12 19:11 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "text": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-    "date": "2026-11-12 18:39 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
   }
 ]
