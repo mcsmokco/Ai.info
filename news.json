@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Where was Nvidia’s security team?",
+    "text": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak ",
+    "date": "2026-11-15 00:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "text": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "date": "2026-11-14 21:41 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -142,23 +160,5 @@
     "date": "2026-11-12 20:26 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "text": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "date": "2026-11-12 20:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/amplitude"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "text": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-    "date": "2026-11-12 19:27 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
   }
 ]
