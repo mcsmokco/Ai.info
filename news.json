@@ -2,6 +2,15 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "text": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "date": "2026-11-16 09:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
     "title": "Apple launches new app to study how people use AI for health",
     "text": "Apple's new app for a study will answer everyday medical questions",
     "date": "2026-11-16 01:30 UTC",
@@ -151,14 +160,5 @@
     "date": "2026-11-13 14:44 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "text": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "date": "2026-11-13 12:52 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
   }
 ]
