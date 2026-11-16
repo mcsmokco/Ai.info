@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Apple launches new app to study how people use AI for health",
+    "text": "Apple's new app for a study will answer everyday medical questions",
+    "date": "2026-11-16 01:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -151,14 +160,5 @@
     "date": "2026-11-13 12:52 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang didn’t show confidence in his successor, report says",
-    "text": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-    "date": "2026-11-13 12:28 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
   }
 ]
