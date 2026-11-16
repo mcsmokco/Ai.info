@@ -1,5 +1,140 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "text": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "date": "2026-11-16 20:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "text": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "date": "2026-11-16 19:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "text": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "date": "2026-11-16 18:11 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "text": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "date": "2026-11-16 17:36 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "text": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "date": "2026-11-16 17:10 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "text": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "date": "2026-11-16 17:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "text": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "date": "2026-11-16 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Broadening access to AI for scientists",
+    "text": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "date": "2026-11-16 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "text": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "date": "2026-11-16 17:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/strengthening-online-child-safety"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "text": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "date": "2026-11-16 15:52 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "text": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "date": "2026-11-16 15:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "text": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "date": "2026-11-16 14:48 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "text": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "date": "2026-11-16 14:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "text": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "date": "2026-11-16 12:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "text": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "date": "2026-11-16 12:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/science-at-the-frontier"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -11,154 +146,19 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Apple launches new app to study how people use AI for health",
-    "text": "Apple's new app for a study will answer everyday medical questions",
-    "date": "2026-11-16 01:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "text": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "date": "2026-11-15 23:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "text": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "date": "2026-11-15 22:00 UTC",
+    "title": "Our first phase of embedded assessments",
+    "text": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "date": "2026-11-16 08:00 UTC",
     "source": "OpenAI",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Our new blog for science",
-    "text": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "date": "2026-11-15 22:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/our-new-blog-for-science"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "text": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "date": "2026-11-15 21:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "text": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "date": "2026-11-15 20:20 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Where was Nvidia’s security team?",
-    "text": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak ",
-    "date": "2026-11-15 00:08 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "text": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "date": "2026-11-14 21:41 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "date": "2026-11-14 17:30 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "text": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "date": "2026-11-14 16:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "text": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "date": "2026-11-13 22:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
   },
   {
     "cat": "agents",
     "tag": "وكلاء AI",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "text": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "date": "2026-11-13 19:37 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "text": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "date": "2026-11-13 18:40 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "text": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "date": "2026-11-13 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "date": "2026-11-13 15:58 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Introducing ChatGPT Wallet",
-    "text": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "date": "2026-11-13 15:00 UTC",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-16 06:00 UTC",
     "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-wallet"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "text": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-    "date": "2026-11-13 14:44 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
   }
 ]
