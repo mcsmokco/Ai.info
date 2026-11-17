@@ -1,9 +1,27 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "text": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "date": "2026-11-16 23:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "text": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "date": "2026-11-16 22:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "California state AG sues OpenAI over rogue agent incidents",
-    "text": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "text": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
     "date": "2026-11-16 20:07 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
@@ -20,7 +38,7 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
     "text": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
     "date": "2026-11-16 18:11 UTC",
     "source": "TechCrunch",
@@ -29,8 +47,8 @@
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-    "text": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "text": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
     "date": "2026-11-16 17:36 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
@@ -142,23 +160,5 @@
     "date": "2026-11-16 09:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/lvmh-media-division-partnership"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Our first phase of embedded assessments",
-    "text": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "date": "2026-11-16 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-16 06:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
   }
 ]
