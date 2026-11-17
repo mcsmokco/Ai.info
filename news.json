@@ -1,164 +1,164 @@
 [
   {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "text": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "date": "2026-11-17 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "text": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "date": "2026-11-17 21:48 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
   },
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "text": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "date": "2026-11-16 23:32 UTC",
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "text": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "date": "2026-11-17 21:34 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "text": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-    "date": "2026-11-16 22:03 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
   },
   {
     "cat": "agents",
     "tag": "وكلاء AI",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "text": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "date": "2026-11-16 20:07 UTC",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "text": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "date": "2026-11-17 19:32 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "text": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "date": "2026-11-16 19:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "text": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "date": "2026-11-16 18:11 UTC",
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "text": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "date": "2026-11-17 19:02 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "text": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-    "date": "2026-11-16 17:36 UTC",
+    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+    "text": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+    "date": "2026-11-17 18:48 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "text": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "date": "2026-11-16 17:10 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
+    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "text": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "date": "2026-11-16 17:02 UTC",
+    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "text": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "date": "2026-11-17 18:10 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "text": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "date": "2026-11-17 18:04 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "text": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-    "date": "2026-11-16 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Broadening access to AI for scientists",
-    "text": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "date": "2026-11-16 17:00 UTC",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "text": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "date": "2026-11-17 17:45 UTC",
     "source": "OpenAI",
-    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "text": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "date": "2026-11-16 17:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/strengthening-online-child-safety"
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "text": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "date": "2026-11-17 17:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
   },
   {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "text": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-    "date": "2026-11-16 15:52 UTC",
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "text": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "date": "2026-11-17 17:20 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-    "text": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-    "date": "2026-11-16 15:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-    "text": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-    "date": "2026-11-16 14:48 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "text": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-    "date": "2026-11-16 14:00 UTC",
+    "title": "Put Gemini to work for you",
+    "text": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "date": "2026-11-17 17:00 UTC",
     "source": "Google AI",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
   },
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "text": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-    "date": "2026-11-16 12:30 UTC",
+    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+    "text": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "date": "2026-11-17 16:44 UTC",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "text": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "date": "2026-11-17 16:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "text": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "date": "2026-11-17 15:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "text": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+    "date": "2026-11-17 14:50 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "text": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "date": "2026-11-17 14:26 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "text": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "date": "2026-11-17 14:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
   },
   {
     "cat": "tools",
     "tag": "أدوات AI",
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "text": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-    "date": "2026-11-16 12:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/science-at-the-frontier"
+    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+    "text": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "date": "2026-11-17 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
   }
 ]
