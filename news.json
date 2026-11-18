@@ -2,6 +2,60 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+    "text": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "date": "2026-11-18 01:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "text": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "date": "2026-11-18 00:16 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "text": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "date": "2026-11-17 23:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "text": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "date": "2026-11-17 23:04 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "text": "The former CEO offered to return to his top role at the company after his resignation last week.",
+    "date": "2026-11-17 22:42 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "text": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "date": "2026-11-17 22:29 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "SEC reportedly investigating Nvidia amid Huang exit",
     "text": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
     "date": "2026-11-17 21:48 UTC",
@@ -106,59 +160,5 @@
     "date": "2026-11-17 16:44 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "text": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-    "date": "2026-11-17 16:32 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "text": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-    "date": "2026-11-17 15:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "text": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-    "date": "2026-11-17 14:50 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "text": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "date": "2026-11-17 14:26 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-    "text": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-    "date": "2026-11-17 14:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "text": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "date": "2026-11-17 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
   }
 ]
