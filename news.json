@@ -47,7 +47,7 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
     "text": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
     "date": "2026-11-18 22:11 UTC",
     "source": "TechCrunch",
@@ -61,6 +61,15 @@
     "date": "2026-11-18 21:57 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Introducing Gemini 4 Neon",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-18 21:35 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
   },
   {
     "cat": "business",
@@ -97,6 +106,15 @@
     "date": "2026-11-18 19:56 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Genie 4 is now available",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-18 18:13 UTC",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/"
   },
   {
     "cat": "business",
@@ -142,23 +160,5 @@
     "date": "2026-11-18 16:14 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-    "text": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-    "date": "2026-11-18 13:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-    "text": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-    "date": "2026-11-18 12:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
   }
 ]
