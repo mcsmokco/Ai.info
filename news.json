@@ -1,5 +1,95 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "text": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "date": "2026-11-19 18:09 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "text": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "date": "2026-11-19 18:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "text": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+    "date": "2026-11-19 17:38 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "text": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "date": "2026-11-19 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "text": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "date": "2026-11-19 17:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "text": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "date": "2026-11-19 16:59 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "text": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "date": "2026-11-19 16:19 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "text": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "date": "2026-11-19 14:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "text": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+    "date": "2026-11-19 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "text": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "date": "2026-11-19 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -70,95 +160,5 @@
     "date": "2026-11-18 21:35 UTC",
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "text": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "date": "2026-11-18 21:34 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "text": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "date": "2026-11-18 21:31 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "text": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "date": "2026-11-18 20:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "text": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-    "date": "2026-11-18 19:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Genie 4 is now available",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-18 18:13 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/genie-4-is-now-available/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Google’s AI feature in Search gets its own incognito mode",
-    "text": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-    "date": "2026-11-18 18:04 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-    "text": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-    "date": "2026-11-18 17:32 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "text": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "date": "2026-11-18 17:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-    "text": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-    "date": "2026-11-18 16:59 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-    "text": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-    "date": "2026-11-18 16:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
   }
 ]
