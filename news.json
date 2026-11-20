@@ -2,6 +2,33 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "text": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "date": "2026-11-20 19:53 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+    "text": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "date": "2026-11-20 19:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Chips can survive the space environment — can their financing?",
+    "text": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "date": "2026-11-20 17:40 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
     "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling i",
     "date": "2026-11-20 14:55 UTC",
@@ -16,6 +43,15 @@
     "date": "2026-11-20 14:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Combatting adversarial distillation",
+    "text": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "date": "2026-11-20 10:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/combatting-adversarial-distillation"
   },
   {
     "cat": "agents",
@@ -34,6 +70,24 @@
     "date": "2026-11-20 00:43 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "text": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "date": "2026-11-20 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/hebbia"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "text": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "date": "2026-11-20 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-medchembench"
   },
   {
     "cat": "business",
@@ -106,59 +160,5 @@
     "date": "2026-11-19 17:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "text": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-    "date": "2026-11-19 17:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "text": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "date": "2026-11-19 16:59 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "text": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "date": "2026-11-19 16:19 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "text": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "date": "2026-11-19 14:54 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "text": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "date": "2026-11-19 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "text": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "date": "2026-11-19 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   }
 ]
