@@ -2,6 +2,60 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "text": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "date": "2026-11-20 00:56 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "text": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "date": "2026-11-20 00:43 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "text": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "date": "2026-11-19 21:58 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "text": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "date": "2026-11-19 21:42 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "date": "2026-11-19 20:18 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "text": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "date": "2026-11-19 19:10 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
     "title": "Google gives Gemini the ability to use your Mac for you",
     "text": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
     "date": "2026-11-19 18:09 UTC",
@@ -20,7 +74,7 @@
   {
     "cat": "agents",
     "tag": "وكلاء AI",
-    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
     "text": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
     "date": "2026-11-19 17:38 UTC",
     "source": "TechCrunch",
@@ -101,64 +155,10 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "text": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "date": "2026-11-18 23:45 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "text": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "date": "2026-11-18 23:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "text": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "date": "2026-11-18 23:17 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "text": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "date": "2026-11-18 22:58 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "text": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-    "date": "2026-11-18 22:11 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "text": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-    "date": "2026-11-18 21:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Introducing Gemini 4 Neon",
-    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
-    "date": "2026-11-18 21:35 UTC",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    "title": "Deploying Daybreak Red",
+    "text": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "date": "2026-11-19 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red"
   }
 ]
