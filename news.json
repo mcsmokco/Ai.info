@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling i",
+    "date": "2026-11-20 14:55 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "text": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "date": "2026-11-20 14:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -142,23 +160,5 @@
     "date": "2026-11-19 08:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "text": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might",
-    "date": "2026-11-19 00:42 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Deploying Daybreak Red",
-    "text": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "date": "2026-11-19 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red"
   }
 ]
