@@ -1,5 +1,23 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "text": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "date": "2026-11-21 21:37 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "A tale of two Nvidias",
+    "text": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "date": "2026-11-21 21:07 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Here are the top AI agents that can live in your text messages",
@@ -142,23 +160,5 @@
     "date": "2026-11-19 19:10 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "text": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "date": "2026-11-19 18:09 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "text": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-    "date": "2026-11-19 18:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
   }
 ]
