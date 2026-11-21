@@ -1,5 +1,23 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "date": "2026-11-21 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "text": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "date": "2026-11-21 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -142,23 +160,5 @@
     "date": "2026-11-19 18:00 UTC",
     "source": "Google AI",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "text": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-    "date": "2026-11-19 17:38 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "text": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "date": "2026-11-19 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
   }
 ]
