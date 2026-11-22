@@ -1,5 +1,23 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "text": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "date": "2026-11-22 18:08 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Perplexity and Intelligence",
+    "text": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "date": "2026-11-22 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/perplexity-and-intelligence"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -142,23 +160,5 @@
     "date": "2026-11-19 21:42 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "date": "2026-11-19 20:18 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "text": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "date": "2026-11-19 19:10 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
   }
 ]
