@@ -1,5 +1,14 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "text": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "date": "2026-11-22 21:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Why data centers are at the center of the Big Tech backlash",
@@ -151,14 +160,5 @@
     "date": "2026-11-19 21:58 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "text": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "date": "2026-11-19 21:42 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
   }
 ]
