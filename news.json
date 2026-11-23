@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "text": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "date": "2026-11-23 01:25 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -151,14 +160,5 @@
     "date": "2026-11-20 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-medchembench"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "text": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "date": "2026-11-19 21:58 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
   }
 ]
