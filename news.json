@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "text": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+    "date": "2026-11-23 14:43 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "text": "The stunning reversal was supported by senior officials in the U.S. government.",
+    "date": "2026-11-23 14:21 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "text": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
     "date": "2026-11-23 01:25 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-11-20 00:43 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "text": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "date": "2026-11-20 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/hebbia"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "text": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "date": "2026-11-20 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-medchembench"
   }
 ]
