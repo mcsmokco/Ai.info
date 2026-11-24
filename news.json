@@ -1,5 +1,122 @@
 [
   {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "text": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "date": "2026-11-23 22:05 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "text": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "date": "2026-11-23 22:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "text": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "date": "2026-11-23 21:47 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "text": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "date": "2026-11-23 21:25 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "text": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "date": "2026-11-23 21:20 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-shirudo"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "text": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+    "date": "2026-11-23 20:38 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "text": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "date": "2026-11-23 19:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "text": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "date": "2026-11-23 18:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "text": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "date": "2026-11-23 17:14 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "text": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "date": "2026-11-23 17:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang isn’t out of the woods yet",
+    "text": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+    "date": "2026-11-23 16:57 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "text": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+    "date": "2026-11-23 16:39 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+    "text": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+    "date": "2026-11-23 15:04 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
@@ -18,6 +135,24 @@
     "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
   },
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Connected intelligence for in-house legal",
+    "text": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "date": "2026-11-23 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "text": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "date": "2026-11-23 08:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+  },
+  {
     "cat": "business",
     "tag": "أعمال AI",
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -25,140 +160,5 @@
     "date": "2026-11-23 01:25 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "text": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "date": "2026-11-22 21:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Why data centers are at the center of the Big Tech backlash",
-    "text": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-    "date": "2026-11-22 18:08 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Perplexity and Intelligence",
-    "text": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "date": "2026-11-22 00:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/perplexity-and-intelligence"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "text": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "date": "2026-11-21 21:37 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "A tale of two Nvidias",
-    "text": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-    "date": "2026-11-21 21:07 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "date": "2026-11-21 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "text": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-    "date": "2026-11-21 16:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "text": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "date": "2026-11-20 19:53 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "text": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-    "date": "2026-11-20 19:32 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Chips can survive the space environment — can their financing?",
-    "text": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-    "date": "2026-11-20 17:40 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling i",
-    "date": "2026-11-20 14:55 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "text": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-    "date": "2026-11-20 14:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Combatting adversarial distillation",
-    "text": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "date": "2026-11-20 10:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/combatting-adversarial-distillation"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "text": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-    "date": "2026-11-20 00:56 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "text": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-    "date": "2026-11-20 00:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
   }
 ]
