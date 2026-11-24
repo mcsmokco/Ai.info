@@ -1,5 +1,158 @@
 [
   {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "text": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "date": "2026-11-24 22:27 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "text": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "date": "2026-11-24 21:48 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Even the best AI agents struggle with everyday life",
+    "text": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "date": "2026-11-24 21:33 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "text": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "date": "2026-11-24 21:32 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "text": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "date": "2026-11-24 21:19 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "text": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "date": "2026-11-24 18:30 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "text": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "date": "2026-11-24 18:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "text": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "date": "2026-11-24 17:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "text": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "date": "2026-11-24 16:46 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "text": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "date": "2026-11-24 16:10 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "text": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "date": "2026-11-24 16:02 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "text": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "date": "2026-11-24 16:00 UTC",
+    "source": "Google AI",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "text": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "date": "2026-11-24 15:51 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "text": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "date": "2026-11-24 13:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Searching for distant planets with Astra",
+    "text": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "date": "2026-11-24 11:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "How Intentful uses dots to make more time for growth",
+    "text": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "date": "2026-11-24 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/intentful-dots"
+  },
+  {
+    "cat": "agents",
+    "tag": "وكلاء AI",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "text": "خبر جديد من مصدر موثوق في مجال الذكاء الاصطناعي.",
+    "date": "2026-11-24 00:00 UTC",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/ifood"
+  },
+  {
     "cat": "agents",
     "tag": "وكلاء AI",
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -7,158 +160,5 @@
     "date": "2026-11-23 22:05 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "text": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-    "date": "2026-11-23 22:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "text": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-    "date": "2026-11-23 21:47 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "text": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-    "date": "2026-11-23 21:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "text": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-    "date": "2026-11-23 21:20 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-shirudo"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-    "text": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-    "date": "2026-11-23 20:38 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "text": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "date": "2026-11-23 19:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "text": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-    "date": "2026-11-23 18:12 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "text": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-    "date": "2026-11-23 17:14 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "A more tailored Google Search that’s uniquely yours",
-    "text": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-    "date": "2026-11-23 17:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Jensen Huang isn’t out of the woods yet",
-    "text": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-    "date": "2026-11-23 16:57 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-    "text": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-    "date": "2026-11-23 16:39 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-    "text": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-    "date": "2026-11-23 15:04 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "text": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "date": "2026-11-23 14:43 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-    "text": "The stunning reversal was supported by senior officials in the U.S. government.",
-    "date": "2026-11-23 14:21 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "Connected intelligence for in-house legal",
-    "text": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-    "date": "2026-11-23 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Richpanel helps companies automate 50% of support in 30 days",
-    "text": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-    "date": "2026-11-23 08:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "text": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "date": "2026-11-23 01:25 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
   }
 ]
