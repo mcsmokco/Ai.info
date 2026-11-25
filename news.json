@@ -2,8 +2,62 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "text": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "date": "2026-11-25 22:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "text": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "date": "2026-11-25 20:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "text": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "date": "2026-11-25 19:54 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "text": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "date": "2026-11-25 19:44 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+  },
+  {
+    "cat": "tools",
+    "tag": "أدوات AI",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "text": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "date": "2026-11-25 18:11 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "text": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "date": "2026-11-25 17:35 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-    "text": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished ",
+    "text": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished",
     "date": "2026-11-25 15:41 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
@@ -21,7 +75,7 @@
     "cat": "business",
     "tag": "أعمال AI",
     "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-    "text": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "text": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
     "date": "2026-11-25 13:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
@@ -106,59 +160,5 @@
     "date": "2026-11-24 17:00 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "text": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-    "date": "2026-11-24 16:46 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "text": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-    "date": "2026-11-24 16:10 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "text": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "date": "2026-11-24 16:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "How Gemini is changing the game for Golden State's organization and fans.",
-    "text": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-    "date": "2026-11-24 16:00 UTC",
-    "source": "Google AI",
-    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
-  },
-  {
-    "cat": "business",
-    "tag": "أعمال AI",
-    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-    "text": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-    "date": "2026-11-24 15:51 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "text": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-    "date": "2026-11-24 13:00 UTC",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
   }
 ]
