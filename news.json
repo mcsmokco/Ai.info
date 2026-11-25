@@ -1,5 +1,14 @@
 [
   {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "text": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits",
+    "date": "2026-11-25 00:12 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+  },
+  {
     "cat": "tools",
     "tag": "أدوات AI",
     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
@@ -151,14 +160,5 @@
     "date": "2026-11-24 00:00 UTC",
     "source": "OpenAI",
     "url": "https://openai.com/business/customer-stories/ifood"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "text": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "date": "2026-11-23 22:05 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
   }
 ]
