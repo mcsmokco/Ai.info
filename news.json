@@ -2,6 +2,24 @@
   {
     "cat": "business",
     "tag": "أعمال AI",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "text": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "date": "2026-11-26 20:03 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "text": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "date": "2026-11-26 16:00 UTC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+  },
+  {
+    "cat": "business",
+    "tag": "أعمال AI",
     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "text": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "date": "2026-11-25 22:44 UTC",
@@ -142,23 +160,5 @@
     "date": "2026-11-24 18:30 UTC",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-  },
-  {
-    "cat": "tools",
-    "tag": "أدوات AI",
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "text": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-    "date": "2026-11-24 18:02 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
-  },
-  {
-    "cat": "agents",
-    "tag": "وكلاء AI",
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "text": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-    "date": "2026-11-24 17:00 UTC",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
   }
 ]
